@@ -48,12 +48,17 @@ async function buttonClicked(){
         iterationSelector.innerHTML = iterationLabel + 0
 
 
-        //Clear codes list
-        const codeList = document.querySelector("#codes")
+        //Clear qrcodes list
+        const qrCodeList = document.querySelector("#codes")
+        while (qrCodeList.firstChild) {
+            qrCodeList.removeChild(qrCodeList.firstChild);
+        }
+
+        //Clear codeslink list
+        const codeList = document.querySelector("#codesList")
         while (codeList.firstChild) {
             codeList.removeChild(codeList.firstChild);
         }
-
 
         const type = parseInt(document.querySelector("#type").value)
         const amount = document.querySelector("#quantity").value
@@ -78,6 +83,7 @@ async function buttonClicked(){
 
 
         for (let codeUrl of results) {
+            // Display qr codes
             let a = document.createElement("a")
             a.href = codeUrl
             a.target = "_blank"
@@ -86,7 +92,13 @@ async function buttonClicked(){
             img.src = codeUrl
 
             a.appendChild(img)
-            codeList.appendChild(a)
+            qrCodeList.appendChild(a)
+
+            // Display links
+
+            let li = document.createElement("li")
+            li.innerHTML = codeUrl
+            codeList.appendChild(li)
         }
 
         console.log(results)
