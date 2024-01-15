@@ -45,10 +45,19 @@
 <button onclick="generateCard()">Carte aléatoire</button>
 <button onclick="correct()">Corriger</button>
 
+<br>
+<br>
 
-<iframe src="Textes/LL1.pdf" width="1000px" height="2000px"></iframe>
+<div id="pdfdiv"></div>
+<script src='./pdfobj.js'></script>
 
+<script>
+    var options = {
+        pdfOpenParams: { scrollbar: '1', toolbar: '0', statusbar: '0', messages: '0', navpanes: '0' }
+    };
 
+    PDFObject.embed("./Textes/LL1.pdf", "#pdfdiv", options);
+</script>
 
 </body>
 </html>

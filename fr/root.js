@@ -128,6 +128,9 @@ document.addEventListener('DOMContentLoaded', function () {
     intCorrSelector = document.getElementById('intCorr')
 
     populateTextSelector()
+
+
+
     generateCard()
 })
 
