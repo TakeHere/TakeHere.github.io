@@ -4,13 +4,14 @@
     <meta charset="UTF-8">
     <title>Flashcard révisions</title>
     <link rel="stylesheet" href="style.css">
+    <script src="https://mozilla.github.io/pdf.js/build/pdf.mjs" type="module"></script>
     <script src="root.js"></script>
 </head>
 <body>
 
 <h1>Révision flashcard</h1>
 
-<select id="text-select">
+<select id="text-select" onchange="textSelectorChanged()">
 </select>
 
 <br>
@@ -45,19 +46,19 @@
 <button onclick="generateCard()">Carte aléatoire</button>
 <button onclick="correct()">Corriger</button>
 
+<button onclick="displayPdf()">Afficher pdf</button>
+
 <br>
 <br>
 
-<div id="pdfdiv"></div>
-<script src='./pdfobj.js'></script>
+<div>
+    <button id="prev">Previous</button>
+    <button id="next">Next</button>
+    &nbsp; &nbsp;
+    <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
+</div>
 
-<script>
-    var options = {
-        pdfOpenParams: { scrollbar: '1', toolbar: '0', statusbar: '0', messages: '0', navpanes: '0' }
-    };
-
-    PDFObject.embed("./Textes/LL1.pdf", "#pdfdiv", options);
-</script>
+<canvas id="the-canvas"></canvas>
 
 </body>
 </html>
