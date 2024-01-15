@@ -1,0 +1,25 @@
+
+
+* {
+    text-align: center;
+    font-family: Calibri, serif;
+}
+
+#card-table{
+    margin: 0 auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+#card-table-titles {
+    background-color: #96D4D4;
+}
+
+textarea::placeholder {
+    line-height: 30px;
+}

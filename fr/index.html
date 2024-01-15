@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flashcard révisions</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="root.js"></script>
+</head>
+<body>
+
+<h1>Révision flashcard</h1>
+
+<select id="text-select">
+</select>
+
+<br>
+<br>
+
+<table id="card-table">
+    <tr id="card-table-titles">
+        <th>Procédés</th>
+        <th>Citation</th>
+        <th>Interprétation</th>
+    </tr>
+
+    <tr>
+        <td>
+            <textarea id="procUser" placeholder="procédé" rows="2" cols="20"></textarea>
+        </td>
+        <td id="citUser"></td>
+        <td>
+            <textarea id="intUser" placeholder="interprétation" rows="2" cols="20"></textarea>
+        </td>
+    </tr>
+
+    <tr>
+        <td id="procCorr">...</td>
+        <td id="citCorr">...</td>
+        <td id="intCorr">...</td>
+    </tr>
+</table>
+
+<br>
+
+<button onclick="generateCard()">Carte aléatoire</button>
+<button onclick="correct()">Corriger</button>
+
+
+<iframe src="Textes/LL1.pdf" width="1000px" height="2000px"></iframe>
+
+
+
+</body>
+</html>
