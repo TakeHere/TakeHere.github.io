@@ -8,14 +8,14 @@ const texts = {
             "int": "Pose cadre spatio-temporel précis, + de réalisme"
         },
         {
-            "proc": "Périphrase",
+            "proc": "Périphrase (évoque le personnage sans le nommer)",
             "cit": "(l.1) Un homme qui compta parmi les personnages les plus géniaux et les plus abominables de cette époque.",
-            "int": "Susciter curiosité du lecteur à propos du perso principal."
+            "int": "Susciter curiosité du lecteur à propos du personnage principal."
         },
         {
             "proc": "Comparaison et opposition entre le perso et un ensemble de persos",
-            "cit": "A la différence d'autres scélérats de génies comme par Exemple… (l.3-4)",
-            "int": "Montre la singularité du perso qui se démarque des autres."
+            "cit": "A la différence d'autres scélérats de génies comme par exemple… (l.3-4)",
+            "int": "Montre la singularité du personnage qui se démarque des autres."
         },
         {
             "proc": "Superlatifs (le plus, la plus) et emploi du mot génie",
@@ -24,7 +24,7 @@ const texts = {
         },
         {
             "proc": "Lexique péjoratif car champ lexical immoralité, renforcée par une énumération.",
-            "cit": "(l.5-6) scélérats, bouffi d'orgueil, ennemi de l'humanité, immoral, impie, malfaisant.",
+            "cit": "(l.5-6) « scélérats, bouffi d'orgueil, ennemi de l'humanité, immoral, impie, malfaisant. »",
             "int": "Permet d'établir son portrait moral péjoratif. C'est donc un personnage monstrueux qui va se distinguer par le mal, on ne va pas avoir un héros mais un anti-héros."
         },
         {
@@ -39,23 +39,23 @@ const texts = {
         },
         {
             "proc": "Narrateur inclus dans la narration",
-            "cit": "(l.8) Nous",
+            "cit": "(l.8) « Nous »",
             "int": "Narrateur utilise pronom personnel \"nous\" pour s'inclure dans la narration, soulignant ainsi une dimension collective dans la description du cadre spatio-temporel."
         },
         {
             "proc": "Hyperbole",
-            "cit": "(l.8) Une puanteur à peine imaginable",
+            "cit": "(l.8) « Une puanteur à peine imaginable »",
             "int": "Amplifie la puanteur, provoque le dégoût du lecteur."
         },
         {
             "proc": "Répétition obsessionnelle du verbe « puer » et du nom « puanteur »",
-            "cit": "(l.9-18) « puer »\n(l.9-21) « puanteur »",
-            "int": "Crée atmosphère insalubre, dégoûtante. Dégoute le lecteur."
+            "cit": "(l.9-18) « puer »\n(l.9-21) « puanteur » + d'une dizaine de fois",
+            "int": "Crée atmosphère insalubre, dégoûtante. Dégoûte le lecteur."
         },
         {
-            "proc": "Système de correspondance lieu-odeur",
-            "cit": "(l.8-16) Énumération de lieux et odeurs multiples",
-            "int": "Enumération de lieux, chacun a une odeur associée. Met en avant domination mauvaises odeurs."
+            "proc": "Énumération de lieux et odeurs multiples Système de correspondance lieu-odeur",
+            "cit": "(l.8-16) « les rues puaient le fumier, les arrières cours puaient l'urine, les cages d'escaliers puaient le bois moisi »",
+            "int": "Chaque lieu a une odeur associée. Met en avant domination des mauvaises odeurs."
         },
         {
             "proc": "Énumération de lieux au pluriel",
@@ -65,7 +65,7 @@ const texts = {
         {
             "proc": "Références à des catégories sociales variées",
             "cit": "(l.16-18) \"paysan, prêtre, roi, noblesse, reine\"",
-            "int": "Montre que puanteur concerne toutes les classes sociales."
+            "int": "Montre que la puanteur concerne toutes les classes sociales."
         },
         {
             "proc": "Conjonction de coordination",
@@ -84,19 +84,19 @@ const texts = {
         },
         {
             "proc": "Anaphore (Répétition en début de phrase)",
-            "cit": "(l.24, 25, 26) « Pendant 800 ans »",
-            "int": "Insiste sur l'omniprésence de la mort en lien avec la naissance du perso principal."
+            "cit": "(l.24, 25, 26) « Pendant 800 ans » x3",
+            "int": "Insiste sur l'omniprésence de la mort en lien avec la naissance du personnage principal."
         },
         {
             "proc": "Succession de phrases longues",
-            "cit": "(l.24-31) Seulement 2 phrases",
+            "cit": "(l.24-31) Seulement 2 phrases sur tout le 3ème mouvement",
             "int": "Retarde l'annonce de la naissance du personnage."
         },
         {
-            "proc": "Apparition date de naissance en fin de texte associé au superlatif",
-            "cit": "(l.32) « 17 Juillet 1738 »\n(l.32) « le plus puant de tout le royaume »",
+            "proc": "Évocation date de naissance en fin de texte Associé à Superlatif péjoratif",
+            "cit": "(l.32) « 17 Juillet 1738 »\n(l.32) « l'endroit le plus puant de tout le royaume »",
             "int": "Insiste sur l'image péjorative."
-        }
+        },
     ],
     "LL2 La rencontre avec Manon": [
         "12",
