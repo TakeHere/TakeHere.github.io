@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<h1>Révision flashcard</h1>
+<h1>Révision pour l'oral de FR</h1>
 
 <select id="text-select" onchange="textSelectorChanged()">
 </select>
@@ -43,17 +43,17 @@
 
 <br>
 
-<button onclick="generateCard()">Carte aléatoire</button>
-<button onclick="correct()">Corriger</button>
+<button class="buttonstyle" onclick="generateCard()">Carte aléatoire</button>
+<button class="buttonstyle" onclick="correct()">Corriger</button>
 
-<button onclick="displayPdf()">Afficher pdf</button>
+<button class="buttonstyle" onclick="displayPdf()">Afficher pdf</button>
 
 <br>
 <br>
 
 <div>
-    <button id="prev">Previous</button>
-    <button id="next">Next</button>
+    <button id="prev">Précédent</button>
+    <button id="next">Suivant</button>
     &nbsp; &nbsp;
     <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
 </div>

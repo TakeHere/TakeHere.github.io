@@ -38,9 +38,9 @@ const texts = {
             "int": "Met en avant l'importance de son histoire."
         },
         {
-            "proc": "Narrateur inclus dans la narration",
+            "proc": "Utilisation du pronom personnel « nous »",
             "cit": "(l.8) « Nous »",
-            "int": "Narrateur utilise pronom personnel \"nous\" pour s'inclure dans la narration, soulignant ainsi une dimension collective dans la description du cadre spatio-temporel."
+            "int": "Narrateur utilise pronom personnel « nous » pour nous inclure dans la narration. Suscite l’intérêt du lecteur (impression d’être concerné)"
         },
         {
             "proc": "Hyperbole",
