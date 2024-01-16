@@ -18,9 +18,9 @@ const texts = {
             "int": "Montre la singularité du personnage qui se démarque des autres."
         },
         {
-            "proc": "Superlatifs (le plus, la plus) et emploi du mot génie",
-            "cit": "(l.1-2) les plus géniaux, les plus abominables\n(l.6) Son génie",
-            "int": "Insiste sur son caractère exceptionnel."
+            "proc": "- Superlatifs (le plus, la plus)\net\n- Emploi du mot génie",
+            "cit": "(l.1-2) « les plus géniaux, les plus abominables »\n(l.6) « Son génie »",
+            "int": "Insistent sur son caractère exceptionnel."
         },
         {
             "proc": "Lexique péjoratif car champ lexical immoralité, renforcée par une énumération.",
