@@ -1,7 +1,7 @@
 const texts = {
     "LL1 Le parfum": [
         {
-            "proc": "Indices de temps et de lieux",
+            "proc": "Compléments circonstanciels de temps et de lieux",
             "cit": "(l.1) « Au XVIIIème siècle »\n" +
                 "(l.1) « en France »\n" +
                 "(l.2) « de cette époque »\n",
