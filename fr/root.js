@@ -104,6 +104,12 @@ const texts = {
     ]
 }
 
+let currentShuffledText = null
+
+let numberOfCardGenerated = 0
+let totalCardsGenerated = 0
+let totalCards = 0
+
 const pdfOptions = {
     pdfOpenParams: { scrollbar: '1', toolbar: '0', statusbar: '0', messages: '0', navpanes: '0' }
 };
@@ -120,6 +126,9 @@ let procCorrSelector = null
 let citCorrSelector = null
 let intCorrSelector = null
 
+let progressScoreSelector = null
+let scoreSelector = null
+
 document.addEventListener('DOMContentLoaded', function () {
     textSelector = document.getElementById('text-select')
 
@@ -131,14 +140,35 @@ document.addEventListener('DOMContentLoaded', function () {
     citCorrSelector = document.getElementById('citCorr')
     intCorrSelector = document.getElementById('intCorr')
 
+    progressScoreSelector = document.getElementById("progressscore")
+    scoreSelector = document.getElementById("score")
+
     populateTextSelector()
+    textSelectorChanged()
     generateCard()
+    addEnterListener()
 })
 
 function generateCard(){
     let text = texts[textSelector.value]
 
-    currentCard = text[Math.floor(Math.random()*text.length)];
+    if (currentShuffledText.length == 0){
+        textSelectorChanged()
+        alert("Toutes les citations ont été faites, je re-mélange le deck !")
+        console.log(currentShuffledText);
+    }
+
+    currentCard = currentShuffledText[0]
+    currentShuffledText.shift()
+
+    numberOfCardGenerated++
+    totalCardsGenerated++
+
+    console.log(scoreSelector)
+    progressScoreSelector.innerHTML = `Nombre de cartes vues: ${numberOfCardGenerated}/${totalCards}`
+    scoreSelector.innerHTML = `Nombre total de cartes vues: ${totalCardsGenerated}`
+
+    console.log(numberOfCardGenerated)
 
     procUserSelector.value = ""
     citUserSelector.innerHTML = currentCard.cit
@@ -163,6 +193,31 @@ function correct(){
     procCorrSelector.innerHTML = currentCard.proc
     citCorrSelector.innerHTML = currentCard.cit
     intCorrSelector.innerHTML = currentCard.int
+}
+
+function addEnterListener(){
+    document.body.addEventListener>("keypress", function(event) {
+        if (event.key === "Enter") {
+            console.log("heyyyy")
+            event.preventDefault();
+            document.getElementById("myBtn").click();
+        }
+    });
+}
+
+function textSelectorChanged(){
+    let text = texts[textSelector.value]
+    totalCards = text.length
+    numberOfCardGenerated = 0
+
+    currentShuffledText = JSON.parse(JSON.stringify(text)).sort((a, b) => 0.5 - Math.random());
+}
+
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
 }
 
 function displayPdf(){

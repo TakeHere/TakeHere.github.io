@@ -9,6 +9,11 @@
 </head>
 <body>
 
+<div id="infodiv">
+    <p id="progressscore"></p>
+    <p id="score"></p>
+</div>
+
 <h1>Révision pour l'oral de FR</h1>
 
 <select id="text-select" onchange="textSelectorChanged()">
@@ -44,7 +49,7 @@
 <br>
 
 <button class="buttonstyle" onclick="generateCard()">Carte aléatoire</button>
-<button class="buttonstyle" onclick="correct()">Corriger</button>
+<button class="buttonstyle" type=submit onclick="correct()">Corriger</button>
 
 <button class="buttonstyle" onclick="displayPdf()">Afficher pdf</button>
 
