@@ -1,107 +1,231 @@
 const texts = {
-    "LL1 Le parfum": [
-        {
-            "proc": "Compléments circonstanciels de temps et de lieux",
-            "cit": "(l.1) « Au XVIIIème siècle »\n" +
-                "(l.1) « en France »\n" +
-                "(l.2) « de cette époque »\n",
-            "int": "Pose cadre spatio-temporel précis, + de réalisme"
-        },
-        {
-            "proc": "Périphrase (évoque le personnage sans le nommer)",
-            "cit": "(l.1) Un homme qui compta parmi les personnages les plus géniaux et les plus abominables de cette époque.",
-            "int": "Susciter curiosité du lecteur à propos du personnage principal."
-        },
-        {
-            "proc": "Comparaison et opposition entre le perso et un ensemble de persos",
-            "cit": "A la différence d'autres scélérats de génies comme par exemple… (l.3-4)",
-            "int": "Montre la singularité du personnage qui se démarque des autres."
-        },
-        {
-            "proc": "- Superlatifs (le plus, la plus)\net\n- Emploi du mot génie",
-            "cit": "(l.1-2) « les plus géniaux, les plus abominables »\n(l.6) « Son génie »",
-            "int": "Insistent sur son caractère exceptionnel."
-        },
-        {
-            "proc": "Lexique péjoratif car champ lexical immoralité, renforcée par une énumération.",
-            "cit": "(l.5-6) « scélérats, bouffi d'orgueil, ennemi de l'humanité, immoral, impie, malfaisant. »",
-            "int": "Permet d'établir son portrait moral péjoratif. C'est donc un personnage monstrueux qui va se distinguer par le mal, on ne va pas avoir un héros mais un anti-héros."
-        },
-        {
-            "proc": "Un Oxymore",
-            "cit": "(l.2) Génie abominable",
-            "int": "Résume le caractère atroce du personnage. Qualités intellectuelles mises au service du mal."
-        },
-        {
-            "proc": "Présentatif (C'est … que)",
-            "cit": "(l.2-3) C'est son histoire qu'il s'agit de raconter ici",
-            "int": "Met en avant l'importance de son histoire."
-        },
-        {
-            "proc": "Utilisation du pronom personnel « nous »",
-            "cit": "(l.8) « Nous »",
-            "int": "Narrateur utilise pronom personnel « nous » pour nous inclure dans la narration. Suscite l’intérêt du lecteur (impression d’être concerné)"
-        },
-        {
-            "proc": "Hyperbole",
-            "cit": "(l.8) « Une puanteur à peine imaginable »",
-            "int": "Amplifie la puanteur, provoque le dégoût du lecteur."
-        },
-        {
-            "proc": "Répétition obsessionnelle du verbe « puer » et du nom « puanteur »",
-            "cit": "(l.9-18) « puer »\n(l.9-21) « puanteur » + d'une dizaine de fois",
-            "int": "Crée atmosphère insalubre, dégoûtante. Dégoûte le lecteur."
-        },
-        {
-            "proc": "Énumération de lieux et odeurs multiples Système de correspondance lieu-odeur",
-            "cit": "(l.8-16) « les rues puaient le fumier, les arrières cours puaient l'urine, les cages d'escaliers puaient le bois moisi »",
-            "int": "Chaque lieu a une odeur associée. Met en avant domination des mauvaises odeurs."
-        },
-        {
-            "proc": "Énumération de lieux au pluriel",
-            "cit": "(l.8-16) « chambres à coucher, cheminées, tanneries… »",
-            "int": "Généralisation de la puanteur."
-        },
-        {
-            "proc": "Références à des catégories sociales variées",
-            "cit": "(l.16-18) \"paysan, prêtre, roi, noblesse, reine\"",
-            "int": "Montre que la puanteur concerne toutes les classes sociales."
-        },
-        {
-            "proc": "Conjonction de coordination",
-            "cit": "(l.18-19) « car »",
-            "int": "Montre volonté de donner explication à toutes ces odeurs."
-        },
-        {
-            "proc": "Antithèses",
-            "cit": "(l.20) « Constructives ou destructives » et « en germe ou à son déclin »",
-            "int": "Toutes les situations entraînent de la puanteur."
-        },
-        {
-            "proc": "Champ lexical de la mort",
-            "cit": "(l.24-30) « Cimetière, cadavre, fausse commune… »",
-            "int": "Crée une atmosphère funèbre."
-        },
-        {
-            "proc": "Anaphore (Répétition en début de phrase)",
-            "cit": "(l.24, 25, 26) « Pendant 800 ans » x3",
-            "int": "Insiste sur l'omniprésence de la mort en lien avec la naissance du personnage principal."
-        },
-        {
-            "proc": "Succession de phrases longues",
-            "cit": "(l.24-31) Seulement 2 phrases sur tout le 3ème mouvement",
-            "int": "Retarde l'annonce de la naissance du personnage."
-        },
-        {
-            "proc": "Évocation date de naissance en fin de texte Associé à Superlatif péjoratif",
-            "cit": "(l.32) « 17 Juillet 1738 »\n(l.32) « l'endroit le plus puant de tout le royaume »",
-            "int": "Insiste sur l'image péjorative."
-        },
-    ],
-    "LL2 La rencontre avec Manon": [
-        "12",
-        "28"
-    ]
+    "LL1 Le parfum": {
+        "color": "#96D4D4",
+        "texts": [
+            {
+                "proc": "Compléments circonstanciels de temps et de lieux",
+                "cit": "(l.1) « Au XVIIIème siècle »\n" +
+                    "(l.1) « en France »\n" +
+                    "(l.2) « de cette époque »\n",
+                "int": "Pose cadre spatio-temporel précis, + de réalisme"
+            },
+            {
+                "proc": "Périphrase (évoque le personnage sans le nommer)",
+                "cit": "(l.1) Un homme qui compta parmi les personnages les plus géniaux et les plus abominables de cette époque.",
+                "int": "Susciter curiosité du lecteur à propos du personnage principal."
+            },
+            {
+                "proc": "Comparaison et opposition entre le perso et un ensemble de persos",
+                "cit": "A la différence d'autres scélérats de génies comme par exemple… (l.3-4)",
+                "int": "Montre la singularité du personnage qui se démarque des autres."
+            },
+            {
+                "proc": "- Superlatifs (le plus, la plus)\net\n- Emploi du mot génie",
+                "cit": "(l.1-2) « les plus géniaux, les plus abominables »\n(l.6) « Son génie »",
+                "int": "Insistent sur son caractère exceptionnel."
+            },
+            {
+                "proc": "Lexique péjoratif car champ lexical immoralité, renforcée par une énumération.",
+                "cit": "(l.5-6) « scélérats, bouffi d'orgueil, ennemi de l'humanité, immoral, impie, malfaisant. »",
+                "int": "Permet d'établir son portrait moral péjoratif. C'est donc un personnage monstrueux qui va se distinguer par le mal, on ne va pas avoir un héros mais un anti-héros."
+            },
+            {
+                "proc": "Un Oxymore",
+                "cit": "(l.2) Génie abominable",
+                "int": "Résume le caractère atroce du personnage. Qualités intellectuelles mises au service du mal."
+            },
+            {
+                "proc": "Présentatif (C'est … que)",
+                "cit": "(l.2-3) C'est son histoire qu'il s'agit de raconter ici",
+                "int": "Met en avant l'importance de son histoire."
+            },
+            {
+                "proc": "Utilisation du pronom personnel « nous »",
+                "cit": "(l.8) « Nous »",
+                "int": "Narrateur utilise pronom personnel « nous » pour nous inclure dans la narration. Suscite l’intérêt du lecteur (impression d’être concerné)"
+            },
+            {
+                "proc": "Hyperbole",
+                "cit": "(l.8) « Une puanteur à peine imaginable »",
+                "int": "Amplifie la puanteur, provoque le dégoût du lecteur."
+            },
+            {
+                "proc": "Répétition obsessionnelle du verbe « puer » et du nom « puanteur »",
+                "cit": "(l.9-18) « puer »\n(l.9-21) « puanteur » + d'une dizaine de fois",
+                "int": "Crée atmosphère insalubre, dégoûtante. Dégoûte le lecteur."
+            },
+            {
+                "proc": "Énumération de lieux et odeurs multiples Système de correspondance lieu-odeur",
+                "cit": "(l.8-16) « les rues puaient le fumier, les arrières cours puaient l'urine, les cages d'escaliers puaient le bois moisi »",
+                "int": "Chaque lieu a une odeur associée. Met en avant domination des mauvaises odeurs."
+            },
+            {
+                "proc": "Énumération de lieux au pluriel",
+                "cit": "(l.8-16) « chambres à coucher, cheminées, tanneries… »",
+                "int": "Généralisation de la puanteur."
+            },
+            {
+                "proc": "Références à des catégories sociales variées",
+                "cit": "(l.16-18) \"paysan, prêtre, roi, noblesse, reine\"",
+                "int": "Montre que la puanteur concerne toutes les classes sociales."
+            },
+            {
+                "proc": "Conjonction de coordination",
+                "cit": "(l.18-19) « car »",
+                "int": "Montre volonté de donner explication à toutes ces odeurs."
+            },
+            {
+                "proc": "Antithèses",
+                "cit": "(l.20) « Constructives ou destructives » et « en germe ou à son déclin »",
+                "int": "Toutes les situations entraînent de la puanteur."
+            },
+            {
+                "proc": "Champ lexical de la mort",
+                "cit": "(l.24-30) « Cimetière, cadavre, fausse commune… »",
+                "int": "Crée une atmosphère funèbre."
+            },
+            {
+                "proc": "Anaphore (Répétition en début de phrase)",
+                "cit": "(l.24, 25, 26) « Pendant 800 ans » x3",
+                "int": "Insiste sur l'omniprésence de la mort en lien avec la naissance du personnage principal."
+            },
+            {
+                "proc": "Succession de phrases longues",
+                "cit": "(l.24-31) Seulement 2 phrases sur tout le 3ème mouvement",
+                "int": "Retarde l'annonce de la naissance du personnage."
+            },
+            {
+                "proc": "Évocation date de naissance en fin de texte Associé à Superlatif péjoratif",
+                "cit": "(l.32) « 17 Juillet 1738 »\n(l.32) « l'endroit le plus puant de tout le royaume »",
+                "int": "Insiste sur l'image péjorative."
+            },
+        ]
+    },
+    "LL2 La rencontre avec Manon": {
+        "color": "blue",
+        "texts": [
+            {
+                "proc": "POV interne",
+                "cit": "Pronom « Je »",
+                "int": "Le narrateur raconte des souvenirs personnels"
+            },
+            {
+                "proc": "Temps composés (Actions antérieures)",
+                "cit": "(l.1-2) « j'avais marqué », « j'aurais porté »",
+                "int": "Récit rétrospectif (raconte un évènement passé)"
+            },
+            {
+                "proc": "Cadre spatio-temporel précis",
+                "cit": "(l.1-3) « Amiens », « Arras » (l.1-2) « Un jour plus tôt, la veille »",
+                "int": "Donne un effet de réel et souligne l'importance de l'événement"
+            },
+            {
+                "proc": "Interjection + Phrase exclamative",
+                "cit": "(l.1) « Hélas ! » (l.1) « que ne le marquai-je un jour plus tôt ! »",
+                "int": "Commentaire rétrospectif du narrateur, regrette son choix, le jour de son départ"
+            },
+            {
+                "proc": "Hyperbole",
+                "cit": "(l.2) « J'aurais porté chez mon père toute mon innocence »",
+                "int": "Insiste sur l'absence de péché qui le caractérise avant sa rencontre avec Manon"
+            },
+            {
+                "proc": "Négation restrictive",
+                "cit": "(l.4-5) « Nous n'avions pas d'autre motif que la curiosité »",
+                "int": "Insiste sur la banalité de la scène"
+            },
+            {
+                "proc": "Déterminant indéfini « quelques »",
+                "cit": "(l) « Il en sortit quelques femmes »",
+                "int": "Insiste sur la banalité des personnages présents"
+            },
+            {
+                "proc": "Conjonction de coordination",
+                "cit": "(l.5) « mais il en resta une »",
+                "int": "Rupture dans la phrase, DG remarque cette femme"
+            },
+            {
+                "proc": "Série d'oppositions entre les Femmes et Manon (l.6-8)",
+                "cit": "(l.5-6) « quelques femmes » / « une », « se retirèrent » / « resta », « s'arrêta »",
+                "int": "Cette femme est différente"
+            },
+            {
+                "proc": "Verbes au passé simple",
+                "cit": "(l.5-6) « se retirèrent » « resta » « s'arrêta »",
+                "int": "Action de premier plan qui introduit l'élément perturbateur, Manon"
+            },
+            {
+                "proc": "Évocation de détails physiques",
+                "cit": "(l.6) « fort jeune » (l.7) « si charmante »",
+                "int": "DG s'intéresse à cette femme"
+            },
+            {
+                "proc": "Adverbe d'intensité « si » + adjectif mélioratif",
+                "cit": "(l.7) « si charmante »",
+                "int": "DG s'intéresse à cette femme"
+            },
+            {
+                "proc": "Etymologie : Latin « carmen », exerce un pouvoir magique",
+                "cit": "(l.7) « si charmante »",
+                "int": "Montre le pouvoir de séduction de Manon"
+            },
+            {
+                "proc": "Complément circonstanciel de manière",
+                "cit": "(l.9) « tout d'un coup »",
+                "int": "C'est un coup de foudre soudain"
+            },
+            {
+                "proc": "Métaphore du feu",
+                "cit": "(l.9) « enflammé »",
+                "int": "Intensité de la passion amoureuse et violence du sentiment"
+            },
+            {
+                "proc": "Périphrase",
+                "cit": "(l.11) « Maîtresse de mon cœur »",
+                "int": "DG sous domination d'une femme"
+            },
+            {
+                "proc": "Opposition dans une phrase longue",
+                "cit": "(l.7-11) « moi qui n'avais jamais pensé à la différence des sexes ni regardé une fille […] dont tout le monde admirait la sagesse et la retenue, […] excessivement timide et facile à déconcerter […] je m'avançais vers la maîtresse de mon cœur »",
+                "int": "Bouleverse la vie de DG : Il passe de la timidité à l'audace, il prend initiative"
+            },
+            {
+                "proc": "Verbe de parole",
+                "cit": "(l.12) « je lui demandai »",
+                "int": "DG débute le dialogue, montre son audace"
+            },
+            {
+                "proc": "Paroles de Manon rapportées indirectement",
+                "cit": "(l.13-14) « elle me répondit ingénument qu'elle y était envoyée par ses parents pour être religieuse »",
+                "int": "Permet au lecteur d'en savoir plus sur les raisons de la présence de Manon"
+            },
+            {
+                "proc": "Forme passive (le sujet ne fait pas l'action)",
+                "cit": "(l.13) « elle y était envoyée par ses parents pour être religieuse",
+                "int": "Rappelle la soumission de Manon à ses parents"
+            },
+            {
+                "proc": "Opposition de 2 comparatifs",
+                "cit": "(l.11) « quoiqu'elle fût encore moins âgée que moi » (Comparatif d'infériorité » (l.16) « elle était bien plus expérimentée que moi »",
+                "int": "Donne un portrait contrasté de Manon. Elle est plus jeune que DG mais plus expérimentée que lui. Confirme"
+            },
+            {
+                "proc": "Complément Circonstanciel de But",
+                "cit": "(l.17) « pour arrêter sans doute son penchant au plaisir »",
+                "int": null
+            },
+            {
+                "proc": "Comparaison et Hyperbole",
+                "cit": "(l.15) « comme un coup mortel pour mes désirs »",
+                "int": "Traduisent la violence du sentiment amoureux qui s'empare de DG"
+            },
+            {
+                "proc": "Hyperbole et registre tragique",
+                "cit": "(l.17-18) « qui a causé dans la suite tous ses malheurs et les miens »",
+                "int": "Intrigue le lecteur et annonce le destin tragique des personnages"
+            }
+        ]
+    }    
 }
 
 let currentShuffledText = null
@@ -129,6 +253,8 @@ let intCorrSelector = null
 let progressScoreSelector = null
 let scoreSelector = null
 
+let cardTableTitleSelector = null
+
 document.addEventListener('DOMContentLoaded', function () {
     textSelector = document.getElementById('text-select')
 
@@ -143,6 +269,8 @@ document.addEventListener('DOMContentLoaded', function () {
     progressScoreSelector = document.getElementById("progressscore")
     scoreSelector = document.getElementById("score")
 
+    cardTableTitleSelector = document.getElementById("card-table-titles")
+
     populateTextSelector()
     textSelectorChanged()
     generateCard()
@@ -150,8 +278,6 @@ document.addEventListener('DOMContentLoaded', function () {
 })
 
 function generateCard(){
-    let text = texts[textSelector.value]
-
     if (currentShuffledText.length == 0){
         textSelectorChanged()
         alert("Toutes les citations ont été faites, je re-mélange le deck !")
@@ -164,11 +290,8 @@ function generateCard(){
     numberOfCardGenerated++
     totalCardsGenerated++
 
-    console.log(scoreSelector)
     progressScoreSelector.innerHTML = `Nombre de cartes vues: ${numberOfCardGenerated}/${totalCards}`
     scoreSelector.innerHTML = `Nombre total de cartes vues: ${totalCardsGenerated}`
-
-    console.log(numberOfCardGenerated)
 
     procUserSelector.value = ""
     citUserSelector.innerHTML = currentCard.cit
@@ -177,6 +300,8 @@ function generateCard(){
     procCorrSelector.innerHTML = "..."
     citCorrSelector.innerHTML = "..."
     intCorrSelector.innerHTML = "..."
+
+    cardTableTitleSelector.style.backgroundColor = texts[textSelector.value].color
 }
 
 
@@ -206,7 +331,8 @@ function addEnterListener(){
 }
 
 function textSelectorChanged(){
-    let text = texts[textSelector.value]
+    let text = texts[textSelector.value].texts
+    console.log(text)
     totalCards = text.length
     numberOfCardGenerated = 0
 
@@ -222,6 +348,7 @@ function shuffleArray(array) {
 
 function displayPdf(){
     var url = `./Textes/${textSelector.value.split(" ")[0]}.pdf`
+    console.log(url)
 
     // Loaded via <script> tag, create shortcut to access PDF.js exports.
     var { pdfjsLib } = globalThis;
