@@ -160,14 +160,9 @@ const texts = {
                 "int": "DG s'intéresse à cette femme"
             },
             {
-                "proc": "Adverbe d'intensité « si » + adjectif mélioratif",
+                "proc": "Adverbe d'intensité « si » + adjectif mélioratif ET Etymologie : Latin « carmen », exerce un pouvoir magique",
                 "cit": "(l.7) « si charmante »",
-                "int": "DG s'intéresse à cette femme"
-            },
-            {
-                "proc": "Etymologie : Latin « carmen », exerce un pouvoir magique",
-                "cit": "(l.7) « si charmante »",
-                "int": "Montre le pouvoir de séduction de Manon"
+                "int": "DG s'intéresse à cette femme ET Montre le pouvoir de séduction de Manon"
             },
             {
                 "proc": "Complément circonstanciel de manière",
@@ -206,13 +201,13 @@ const texts = {
             },
             {
                 "proc": "Opposition de 2 comparatifs",
-                "cit": "(l.11) « quoiqu'elle fût encore moins âgée que moi » (Comparatif d'infériorité » (l.16) « elle était bien plus expérimentée que moi »",
+                "cit": "(l.11) « quoiqu'elle fût encore moins âgée que moi » (Comparatif d'infériorité) (l.16) « elle était bien plus expérimentée que moi » (Comparatif de supériorité)",
                 "int": "Donne un portrait contrasté de Manon. Elle est plus jeune que DG mais plus expérimentée que lui. Confirme"
             },
             {
                 "proc": "Complément Circonstanciel de But",
                 "cit": "(l.17) « pour arrêter sans doute son penchant au plaisir »",
-                "int": null
+                "int": "Manon ne semble pas découvrir les relations amoureuses, contrairement à DG"
             },
             {
                 "proc": "Comparaison et Hyperbole",
