@@ -200,8 +200,8 @@ const texts = {
                 "int": "Rappelle la soumission de Manon à ses parents"
             },
             {
-                "proc": "Opposition de 2 comparatifs",
-                "cit": "(l.11) « quoiqu'elle fût encore moins âgée que moi » (Comparatif d'infériorité) (l.16) « elle était bien plus expérimentée que moi » (Comparatif de supériorité)",
+                "proc": "Opposition de 2 comparatifs : \nComparatif d'infériorité et Comparatif de supériorité",
+                "cit": "(l.11) « quoiqu'elle fût encore moins âgée que moi » \n(l.16) « elle était bien plus expérimentée que moi »",
                 "int": "Donne un portrait contrasté de Manon. Elle est plus jeune que DG mais plus expérimentée que lui. Confirme"
             },
             {
