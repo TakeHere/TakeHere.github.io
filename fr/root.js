@@ -255,6 +255,8 @@ let scoreSelector = null
 
 let cardTableTitleSelector = null
 
+let citChoiceSelector = null
+
 document.addEventListener('DOMContentLoaded', function () {
     textSelector = document.getElementById('text-select')
 
@@ -271,6 +273,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     cardTableTitleSelector = document.getElementById("card-table-titles")
 
+    citChoiceSelector = document.getElementById("citChoice")
+
     populateTextSelector()
     textSelectorChanged()
     generateCard()
@@ -279,7 +283,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 function generateCard(){
     if (currentShuffledText.length == 0){
-        textSelectorChanged()
+        shuffleCards()
         alert("Toutes les citations ont été faites, je re-mélange le deck !")
         console.log(currentShuffledText);
     }
@@ -320,19 +324,21 @@ function correct(){
     intCorrSelector.innerHTML = currentCard.int
 }
 
-function addEnterListener(){
-    document.body.addEventListener>("keypress", function(event) {
-        if (event.key === "Enter") {
-            console.log("heyyyy")
-            event.preventDefault();
-            document.getElementById("myBtn").click();
-        }
-    });
+function textSelectorChanged(){
+    shuffleCards()
+    
+    texts[textSelector.value].texts.forEach(line => {
+        let cit = line.cit
+
+        const pEl = document.createElement("p")
+        pEl.innerHTML = cit
+
+        citChoiceSelector.appendChild(pEl)
+    })
 }
 
-function textSelectorChanged(){
+function shuffleCards(){
     let text = texts[textSelector.value].texts
-    console.log(text)
     totalCards = text.length
     numberOfCardGenerated = 0
 
