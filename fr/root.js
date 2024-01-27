@@ -115,9 +115,9 @@ const texts = {
                 "int": "Récit rétrospectif (raconte un évènement passé)"
             },
             {
-                "proc": "Cadre spatio-temporel précis",
+                "proc": "Compléments circonstanciels de temps et de lieux",
                 "cit": "(l.1-3) « Amiens », « Arras » (l.1-2) « Un jour plus tôt, la veille »",
-                "int": "Donne un effet de réel et souligne l'importance de l'événement"
+                "int": "Précise le cadre spatio-temporel, + de réalisme"
             },
             {
                 "proc": "Interjection + Phrase exclamative",
@@ -136,7 +136,7 @@ const texts = {
             },
             {
                 "proc": "Déterminant indéfini « quelques »",
-                "cit": "(l) « Il en sortit quelques femmes »",
+                "cit": "(l.5) « Il en sortit quelques femmes »",
                 "int": "Insiste sur la banalité des personnages présents"
             },
             {
@@ -202,7 +202,7 @@ const texts = {
             {
                 "proc": "Opposition de 2 comparatifs : \nComparatif d'infériorité et Comparatif de supériorité",
                 "cit": "(l.11) « quoiqu'elle fût encore moins âgée que moi » \n(l.16) « elle était bien plus expérimentée que moi »",
-                "int": "Donne un portrait contrasté de Manon. Elle est plus jeune que DG mais plus expérimentée que lui. Confirme"
+                "int": "Donne un portrait contrasté de Manon. Elle est plus jeune que DG mais plus expérimentée que lui."
             },
             {
                 "proc": "Complément Circonstanciel de But",
