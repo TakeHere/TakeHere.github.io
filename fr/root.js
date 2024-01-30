@@ -1,3 +1,7 @@
+const pdfOptions = {
+    pdfOpenParams: { scrollbar: '1', toolbar: '0', statusbar: '0', messages: '0', navpanes: '0' }
+};
+
 const texts = {
     "LL1 Le parfum": {
         "color": "#96D4D4",
@@ -223,18 +227,17 @@ const texts = {
     }    
 }
 
-let currentShuffledText = null
+let currentTextDeck = {}
+let currentTextDeckWorking = {}
+let currentCard = null
 
+
+// ------< Stats >------
 let numberOfCardGenerated = 0
 let totalCardsGenerated = 0
 let totalCards = 0
 
-const pdfOptions = {
-    pdfOpenParams: { scrollbar: '1', toolbar: '0', statusbar: '0', messages: '0', navpanes: '0' }
-};
-
-let currentCard = null
-
+// ------< Selectors >------
 let textSelector = null
 
 let procUserSelector = null
@@ -251,8 +254,17 @@ let scoreSelector = null
 let cardTableTitleSelector = null
 
 let citChoiceSelector = null
+// ------------------
 
 document.addEventListener('DOMContentLoaded', function () {
+    getSelectors()
+    populateTextSelector()
+
+    textSelectorChanged()
+    generateCard()
+})
+
+function getSelectors(){
     textSelector = document.getElementById('text-select')
 
     procUserSelector = document.getElementById('procUser')
@@ -269,28 +281,21 @@ document.addEventListener('DOMContentLoaded', function () {
     cardTableTitleSelector = document.getElementById("card-table-titles")
 
     citChoiceSelector = document.getElementById("citChoice")
-
-    populateTextSelector()
-    textSelectorChanged()
-    generateCard()
-    addEnterListener()
-})
+}
 
 function generateCard(){
-    if (currentShuffledText.length == 0){
+    if (currentTextDeckWorking.length == 0){
         shuffleCards()
         alert("Toutes les citations ont été faites, je re-mélange le deck !")
-        console.log(currentShuffledText);
     }
 
-    currentCard = currentShuffledText[0]
-    currentShuffledText.shift()
+    currentCard = currentTextDeckWorking[0]
+    currentTextDeckWorking.shift()
 
     numberOfCardGenerated++
     totalCardsGenerated++
 
-    progressScoreSelector.innerHTML = `Nombre de cartes vues: ${numberOfCardGenerated}/${totalCards}`
-    scoreSelector.innerHTML = `Nombre total de cartes vues: ${totalCardsGenerated}`
+    updateCardsAmountInfos()
 
     procUserSelector.value = ""
     citUserSelector.innerHTML = currentCard.cit
@@ -301,6 +306,11 @@ function generateCard(){
     intCorrSelector.innerHTML = "..."
 
     cardTableTitleSelector.style.backgroundColor = texts[textSelector.value].color
+}
+
+function updateCardsAmountInfos(){
+    progressScoreSelector.innerHTML = `Nombre de cartes vues: ${numberOfCardGenerated}/${totalCards}`
+    scoreSelector.innerHTML = `Nombre total de cartes vues: ${totalCardsGenerated}`
 }
 
 
@@ -320,36 +330,97 @@ function correct(){
 }
 
 function textSelectorChanged(){
+    currentTextDeck = Array.from(texts[textSelector.value].texts)
+
     shuffleCards()
     
     texts[textSelector.value].texts.forEach(line => {
         let cit = line.cit
 
-        const pEl = document.createElement("p")
-        pEl.innerHTML = cit
+        const trEl = document.createElement("tr")
+        const citTdEl = document.createElement("td")
+        const chooseTdEl = document.createElement("td")
+        const chooseCheckboxEl = document.createElement("input")
 
-        citChoiceSelector.appendChild(pEl)
+        citTdEl.innerHTML = cit
+        chooseCheckboxEl.type = "checkbox"
+        chooseCheckboxEl.checked = true
+        chooseCheckboxEl.addEventListener('change', e => {
+            if(e.target.checked === true) {
+                let cit = e.target.parentNode.parentNode.childNodes[0].innerHTML
+                let currentText = texts[textSelector.value].texts
+
+                currentText.forEach((e, index) => {
+                    let iterationCit = e.cit
+                    if(iterationCit == cit){
+                        currentTextDeck.push(e)
+                        shuffleCards()
+                        return
+                    }
+                  })
+            }
+          if(e.target.checked === false) {
+              let cit = e.target.parentNode.parentNode.childNodes[0].innerHTML
+              currentTextDeck.forEach((e, index) => {
+                let iterationCit = e.cit
+                if(iterationCit == cit){
+                    currentTextDeck.splice(index, 1)
+                    shuffleCards()
+                    return
+                }
+              })
+            }
+          });
+        
+        chooseTdEl.appendChild(chooseCheckboxEl)
+        trEl.appendChild(citTdEl)
+        trEl.appendChild(chooseTdEl)
+
+
+        citChoiceSelector.appendChild(trEl)
     })
 }
 
 function shuffleCards(){
-    let text = texts[textSelector.value].texts
-    totalCards = text.length
-    numberOfCardGenerated = 0
+    resetCardsCounter()
 
-    currentShuffledText = JSON.parse(JSON.stringify(text)).sort((a, b) => 0.5 - Math.random());
+    //currentTextDeckWorking = JSON.parse(JSON.stringify(currentTextDeck)).sort((a, b) => 0.5 - Math.random());
+    currentTextDeckWorking = [...currentTextDeck]
 }
 
-function shuffleArray(array) {
-    for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-    }
+function resetCardsCounter(){
+    totalCards = currentTextDeck.length
+    numberOfCardGenerated = 0
+
+    updateCardsAmountInfos()
+}
+
+function checkboxesCheckon(){
+    citChoiceSelector.childNodes.forEach(element => {
+        console.log(element)
+        if(element.nodeName == "TR"){
+            let checkboxSelector = element.childNodes[1].childNodes[0]
+            if(checkboxSelector.checked == false){
+                checkboxSelector.click()
+            }
+        }
+    });
+}
+
+function checkboxesCheckoff(){
+    citChoiceSelector.childNodes.forEach(element => {
+        console.log(element)
+        if(element.nodeName == "TR"){
+            let checkboxSelector = element.childNodes[1].childNodes[0]
+            if(checkboxSelector.checked == true){
+                checkboxSelector.click()
+            }
+        }
+    });
 }
 
 function displayPdf(){
     var url = `./Textes/${textSelector.value.split(" ")[0]}.pdf`
-    console.log(url)
 
     // Loaded via <script> tag, create shortcut to access PDF.js exports.
     var { pdfjsLib } = globalThis;
