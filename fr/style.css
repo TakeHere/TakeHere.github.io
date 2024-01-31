@@ -55,6 +55,16 @@ input[type=checkbox]
   padding: 10px;
 }
 
+#parametersButton{
+  position:absolute;
+  top:0;
+  right:0;
+  margin: 10px;
+}
+
+#parameters{
+  display: none;
+}
 
 #pdfdiv{
     height: 50rem;

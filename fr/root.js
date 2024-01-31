@@ -224,7 +224,157 @@ const texts = {
                 "int": "Intrigue le lecteur et annonce le destin tragique des personnages"
             }
         ]
-    }    
+    },
+    "LL3 La dispute entre DG et son père": {
+        "color": "#ee8bf0",
+        "texts": [
+            {
+                "proc": "Complément circonstanciel de manière ",
+                "cit": "(l.1) « En tremblant »",
+                "int": "DG prend la parole en premier mais son père lui inspire une crainte"
+            },
+            {
+                "proc": "Apostrophe (utilise un mot pour interpeller) + Vouvoiement",
+                "cit": "(l.1) « Monsieur »",
+                "int": "Établit une distance entre les deux + forme de respect"
+            },
+            {
+                "proc": "Hyperbole",
+                "cit": "(l.1-2) « comblé de grâces » et « vous m'avez pardonné un nombre infini de fautes »",
+                "int": "La stratégie de DG consiste à flatter son père"
+            },
+            {
+                "proc": "Lexique mélioratif",
+                "cit": "(l.1) « bon père » (l.2 ) « grâces »",
+                "int": "Montre l'affection qu'il a pour son père"
+            },
+            {
+                "proc": "Opposition avec Conjonction de coordination « mais »",
+                "cit": "(l.3) « mais »",
+                "int": "Contradiction avec ce qui précède"
+            },
+            {
+                "proc": "Modalisateur et Points de suspensions",
+                "cit": "(l.3) « il me semble » et « … »",
+                "int": "Traduisent l'hésitation de DG"
+            },
+            {
+                "proc": "Interjection + La question + verbe « interrompis »",
+                "cit": "(l.3-4) « Hé bien ! Ma rigueur ? Interrompis mon père »",
+                "int": "Montre l'agacement et la susceptibilité du père."
+            },
+            {
+                "proc": "Interjection",
+                "cit": "(l.8) « Ah monsieur »",
+                "int": "Les propos du père troublent DG"
+            },
+            {
+                "proc": "Le sujet du verbe « représenter » est le mot « haine » qui est un sentiment",
+                "cit": "(l.6) « M de GM. Sa haine vous l'a représentée sous les plus noires couleurs. »",
+                "int": "Montre que le sentiment de M de GM a influencé la représentation que le père a eu de Manon car il veut nuire au couple."
+            },
+            {
+                "proc": "Hyperbole",
+                "cit": "(l.6) « Sous les plus noires couleurs »",
+                "int": "Donne une vision très négative de Manon."
+            },
+            {
+                "proc": "Adverbe d'opposition « Cependant »",
+                "cit": "(l.7) « Cependant »",
+                "int": "Suggère que DG veut proposer une autre vision de Manon."
+            },
+            {
+                "proc": "Hyperbole + lexique mélioratif",
+                "cit": "(l.7) « La plus douce et la plus aimable créature qui fut jamais »",
+                "int": "Dresse un portrait élogieux de Manon. Montre son attachement excessif pour Manon"
+            },
+            {
+                "proc": "Adverbe d’intensité « si »",
+                "cit": "(l.12) « Un discours si passionné »",
+                "int": "Intensifie la passion et l'absence de maîtrise de DG quand il parle de Manon"
+            },
+            {
+                "proc": "Répétition de l'adverbe « Non »",
+                "cit": "(l.13) « Non, non »",
+                "int": "Montre que la colère du père augmente"
+            },
+            {
+                "proc": "Nombreuses négations",
+                "cit": "(l.14) « J'aime mieux te voir sans vie que sans sagesse et sans honneur, n'allons donc pas plus loin »",
+                "int": "Montre le désaccord et la colère entre DG et le père"
+            },
+            {
+                "proc": "Verbes de paroles + Compléments Circonstanciels de Manière",
+                "cit": "(l.13-14) « Me dit-il d'un ton sévère » (l.14) « M'écriai-je en l'arrêtant par le bras » (l.17) « Répliqua-t-il »",
+                "int": "Montre que le rythme s'accélère car le ton monte."
+            },
+            {
+                "proc": "Adjectifs péjoratifs qualifiant la « vie »",
+                "cit": "(l.15) « Vie odieuse et insupportable »",
+                "int": "Intensifie le désespoir de DG et montre la rupture entre les deux personnages."
+            },
+            {
+                "proc": "Négation restrictive (ne …que)",
+                "cit": "(l.17) « Je ne te donnerais que ce tu mérites »",
+                "int": "Réplique ferme de son père"
+            },
+            {
+                "proc": "Antithèse opposant les autres Pères et lui-même",
+                "cit": "(l.18) « Tes bourreaux » et « ma bonté excessive »",
+                "int": "Souligne les regrets du père"
+            },
+            {
+                "proc": "Compléments Circonstanciels de Lieux et de Manière",
+                "cit": "(l.20) « Je me jetai à ses genoux » et « en les embrassant »",
+                "int": "Posture de soumission, de supplication envers son père donc DG est pathétique (suscite la compassion) pour persuader son père."
+            },
+            {
+                "proc": "Verbe à l'impératif",
+                "cit": "(l.20) « songez que je suis votre fils »",
+                "int": "Impératif ayant une valeur de prière : il le supplie."
+            },
+            {
+                "proc": "Questions rhétoriques",
+                "cit": "(l.21-23) « Auriez-vous souffert qu'on l'eût arrachée de vos bras ? »",
+                "int": "DG pousse le père à la réflexion. Il fait une comparaison implicite entre sa situation et celle de ses parents."
+            },
+            {
+                "proc": "Lexique de la contrariété",
+                "cit": "(l.24-32) (Souligné en bleu)« voix irritée » « indignation » « il m'importune »",
+                "int": "Le choix de mots exprime le mécontentement du père face à la comparaison inappropriée de DG."
+            },
+            {
+                "proc": "Hyperbole",
+                "cit": "(l.25) « Tes désordres la feraient mourir de douleur »",
+                "int": "Intensifie afin de condamner fermement le comportement de DG"
+            },
+            {
+                "proc": "Verbe au futur",
+                "cit": "(l.26) « ne me fera point changer de résolution »",
+                "int": "La certitude exprimée montre l'inflexibilité du père"
+            },
+            {
+                "proc": "Verbes de mouvement",
+                "cit": "(l.27) « Je m'éloignais de quelques pas » (l.32) « Je me tournais pour le quitter »",
+                "int": "Concrétise la rupture entre les personnages"
+            },
+            {
+                "proc": "Le père est sujet du verbe d'action « augmenter »",
+                "cit": "(l. 28,29) » n'augmentez pas mon désespoir »",
+                "int": "DG l'accuse d'être à l'origine de sa souffrance. Il considère que c'est son père qui le force à rompre leurs liens"
+            },
+            {
+                "proc": "Le futur + l'adverbe",
+                "cit": "(l.30) « ma mort que vous apprendrez bientôt »",
+                "int": "Imminence de sa fin certaine. Il utilise un registre tragique car Il présente sa mort comme une fatalité."
+            },
+            {
+                "proc": "Parallélisme de construction+ vocabulaire très péjoratif",
+                "cit": "(l.33) « Adieu, fils ingrat et rebelle » […] « adieu, père barbare et dénaturé »",
+                "int": "Cela montre bien l'irréversibilité de la rupture entre le père et le fils. Les qualificatifs employés par DG contrastent avec (l.1) « vous êtes un bon père ». Confirme que l'échange devient extrêmement tendu"
+            }
+        ]
+    }
 }
 
 let currentTextDeck = {}
@@ -254,6 +404,7 @@ let scoreSelector = null
 let cardTableTitleSelector = null
 
 let citChoiceSelector = null
+let parametersSelector = null
 // ------------------
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -281,6 +432,7 @@ function getSelectors(){
     cardTableTitleSelector = document.getElementById("card-table-titles")
 
     citChoiceSelector = document.getElementById("citChoice")
+    parametersSelector = document.getElementById("parameters")
 }
 
 function generateCard(){
@@ -330,6 +482,8 @@ function correct(){
 }
 
 function textSelectorChanged(){
+    resetCitationChooser()
+
     currentTextDeck = Array.from(texts[textSelector.value].texts)
 
     shuffleCards()
@@ -395,9 +549,14 @@ function resetCardsCounter(){
     updateCardsAmountInfos()
 }
 
+function resetCitationChooser(){
+    while (citChoiceSelector.childNodes.length != 2) {
+        citChoiceSelector.removeChild(citChoiceSelector.lastChild);
+    }
+}
+
 function checkboxesCheckon(){
     citChoiceSelector.childNodes.forEach(element => {
-        console.log(element)
         if(element.nodeName == "TR"){
             let checkboxSelector = element.childNodes[1].childNodes[0]
             if(checkboxSelector.checked == false){
@@ -417,6 +576,14 @@ function checkboxesCheckoff(){
             }
         }
     });
+}
+
+function toggleParameters(){
+    if (parametersSelector.style.display === "none") {
+        parametersSelector.style.display = "block";
+      } else {
+        parametersSelector.style.display = "none";
+      }
 }
 
 function displayPdf(){

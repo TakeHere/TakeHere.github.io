@@ -14,6 +14,8 @@
     <p id="score"></p>
 </div>
 
+<button class="buttonstyle" id="parametersButton" onclick="toggleParameters()">Paramètres</button>
+
 <h1>Révision pour l'oral de FR</h1>
 
 <select id="text-select" onchange="textSelectorChanged()">
@@ -65,16 +67,18 @@
 
 <canvas id="the-canvas"></canvas>
 
-<table id="citChoice">
-    <tr id="citChoice-table-titles">
-        <th>Citation</th>
-        <th>Choix de l'activation (y/n)
-            <br>
-            <button onclick="checkboxesCheckon()">Activer toutes les citations</button>
-            <button onclick="checkboxesCheckoff()">Désactiver toutes les citations</button>
-        </th>
-    </tr>
-</table>
+<div id="parameters">
+    <table id="citChoice">
+        <tr id="citChoice-table-titles">
+            <th>Citation</th>
+            <th>Choix de l'activation (y/n)
+                <br>
+                <button onclick="checkboxesCheckon()">Activer toutes les citations</button>
+                <button onclick="checkboxesCheckoff()">Désactiver toutes les citations</button>
+            </th>
+        </tr>
+    </table>
+</div>
 
 </body>
 </html>
