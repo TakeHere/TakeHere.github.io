@@ -82,27 +82,7 @@ const texts = {
                 "proc": "Antithèses",
                 "cit": "(l.20) « Constructives ou destructives » et « en germe ou à son déclin »",
                 "int": "Toutes les situations entraînent de la puanteur."
-            },
-            {
-                "proc": "Champ lexical de la mort",
-                "cit": "(l.24-30) « Cimetière, cadavre, fausse commune… »",
-                "int": "Crée une atmosphère funèbre."
-            },
-            {
-                "proc": "Anaphore (Répétition en début de phrase)",
-                "cit": "(l.24, 25, 26) « Pendant 800 ans » x3",
-                "int": "Insiste sur l'omniprésence de la mort en lien avec la naissance du personnage principal."
-            },
-            {
-                "proc": "Succession de phrases longues",
-                "cit": "(l.24-31) Seulement 2 phrases sur tout le 3ème mouvement",
-                "int": "Retarde l'annonce de la naissance du personnage."
-            },
-            {
-                "proc": "Évocation date de naissance en fin de texte Associé à Superlatif péjoratif",
-                "cit": "(l.32) « 17 Juillet 1738 »\n(l.32) « l'endroit le plus puant de tout le royaume »",
-                "int": "Insiste sur l'image péjorative."
-            },
+            }
         ]
     },
     "LL2 La rencontre avec Manon": {
@@ -265,7 +245,7 @@ const texts = {
             },
             {
                 "proc": "Interjection",
-                "cit": "(l.8) « Ah monsieur »",
+                "cit": "(l.4) « Ah monsieur »",
                 "int": "Les propos du père troublent DG"
             },
             {
@@ -352,26 +332,6 @@ const texts = {
                 "proc": "Verbe au futur",
                 "cit": "(l.26) « ne me fera point changer de résolution »",
                 "int": "La certitude exprimée montre l'inflexibilité du père"
-            },
-            {
-                "proc": "Verbes de mouvement",
-                "cit": "(l.27) « Je m'éloignais de quelques pas » (l.32) « Je me tournais pour le quitter »",
-                "int": "Concrétise la rupture entre les personnages"
-            },
-            {
-                "proc": "Le père est sujet du verbe d'action « augmenter »",
-                "cit": "(l. 28,29) » n'augmentez pas mon désespoir »",
-                "int": "DG l'accuse d'être à l'origine de sa souffrance. Il considère que c'est son père qui le force à rompre leurs liens"
-            },
-            {
-                "proc": "Le futur + l'adverbe",
-                "cit": "(l.30) « ma mort que vous apprendrez bientôt »",
-                "int": "Imminence de sa fin certaine. Il utilise un registre tragique car Il présente sa mort comme une fatalité."
-            },
-            {
-                "proc": "Parallélisme de construction+ vocabulaire très péjoratif",
-                "cit": "(l.33) « Adieu, fils ingrat et rebelle » […] « adieu, père barbare et dénaturé »",
-                "int": "Cela montre bien l'irréversibilité de la rupture entre le père et le fils. Les qualificatifs employés par DG contrastent avec (l.1) « vous êtes un bon père ». Confirme que l'échange devient extrêmement tendu"
             }
         ]
     }
