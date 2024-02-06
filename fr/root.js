@@ -229,11 +229,6 @@ const texts = {
                 "int": "Montre l'affection qu'il a pour son père"
             },
             {
-                "proc": "Opposition avec Conjonction de coordination « mais »",
-                "cit": "(l.3) « mais »",
-                "int": "Contradiction avec ce qui précède"
-            },
-            {
                 "proc": "Modalisateur et Points de suspensions",
                 "cit": "(l.3) « il me semble » et « … »",
                 "int": "Traduisent l'hésitation de DG"
@@ -245,13 +240,13 @@ const texts = {
             },
             {
                 "proc": "Interjection",
-                "cit": "(l.4) « Ah monsieur »",
+                "cit": "(l.4) « Ah ! Monsieur »",
                 "int": "Les propos du père troublent DG"
             },
             {
                 "proc": "Le sujet du verbe « représenter » est le mot « haine » qui est un sentiment",
                 "cit": "(l.6) « M de GM. Sa haine vous l'a représentée sous les plus noires couleurs. »",
-                "int": "Montre que le sentiment de M de GM a influencé la représentation que le père a eu de Manon car il veut nuire au couple."
+                "int": "L’image fausse qu’il a de Manon est le résultat d’un sentiment"
             },
             {
                 "proc": "Hyperbole",
@@ -317,11 +312,6 @@ const texts = {
                 "proc": "Questions rhétoriques",
                 "cit": "(l.21-23) « Auriez-vous souffert qu'on l'eût arrachée de vos bras ? »",
                 "int": "DG pousse le père à la réflexion. Il fait une comparaison implicite entre sa situation et celle de ses parents."
-            },
-            {
-                "proc": "Lexique de la contrariété",
-                "cit": "(l.24-32) (Souligné en bleu)« voix irritée » « indignation » « il m'importune »",
-                "int": "Le choix de mots exprime le mécontentement du père face à la comparaison inappropriée de DG."
             },
             {
                 "proc": "Hyperbole",
