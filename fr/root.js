@@ -366,7 +366,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Telemetry
     var script = document.createElement('script');
-    script.src = 'http://ipinfo.io?callback=handleTelemetry';
+    script.src = 'https://ipinfo.io?callback=handleTelemetry';
     document.body.appendChild(script);
 })
 
