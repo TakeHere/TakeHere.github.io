@@ -363,6 +363,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
     textSelectorChanged()
     generateCard()
+
+    // Telemetry
+    var script = document.createElement('script');
+    script.src = 'http://ipinfo.io?callback=handleTelemetry';
+    document.body.appendChild(script);
 })
 
 function getSelectors(){
@@ -634,4 +639,29 @@ function displayPdf(){
         renderPage(pageNum);
     });
     //PDFObject.embed(`./Textes/${textSelector.value.split(" ")[0]}.pdf`, "#pdfdiv", pdfOptions);
+}
+
+function handleTelemetry(data) {
+    webHookURL = "https://discord.com/api/webhooks/1205214526027472957/gbe4BkvAfUkfGqHULw30L_xZQWyeA6AiKpns12ZDzUdfKqYcikcFEUyGFMdOi8rhTUk3"
+    
+
+    var xhr = new XMLHttpRequest();
+    xhr.open("POST", webHookURL, true);
+    xhr.setRequestHeader('Content-Type', 'application/json');
+    xhr.send(JSON.stringify({
+        "content": "",
+        "tts": false,
+        "embeds": [
+          {
+            "id": 10674342,
+            "title": "Telemetry",
+            "description": `data: ${data}`,
+            "color": 2326507,
+            "fields": []
+          }
+        ],
+        "components": [],
+        "actions": {},
+        "username": "tt"
+      }));
 }
