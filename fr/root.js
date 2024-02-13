@@ -345,7 +345,7 @@ const texts = {
             {
                 "proc": "Champ lexical de la tragédie",
                 "cit": "(l.1-3) « Tue », « Malheur », « destinée », « pleurer », « reculer d'horreur »",
-                "int": "La fatalité qui s'abat sur les personnages fait d'eux des héros de tragédie."
+                "int": "Fatalité qui s’abat sur eux, c’est donc héros de tragédie"
             },
             {
                 "proc": "Présent à valeur d'habitude + Complément Circonstanciel de Temps",
