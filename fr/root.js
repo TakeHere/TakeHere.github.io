@@ -333,14 +333,14 @@ const texts = {
                 "int": "DG implore l'indulgence de son destinataire."
             },
             {
-                "proc": "Hyperbole + Complément Circonstanciel de Manière",
+                "proc": "Complément Circonstanciel de Manière + Hyperbole",
                 "cit": "(l.1) « si j'achève en peu de mots un récit qui me tue »",
-                "int": "Traduit la difficulté du récit de DG + intensité de la souffrance."
+                "int": "Traduit la difficulté du récit de DG + intensifie de la souffrance."
             },
             {
                 "proc": "Périphrase + hyperbole, désigne la mort de Manon",
                 "cit": "(l.1) « un malheur qui n'eut jamais d'exemple »",
-                "int": "Traduit la difficulté du récit de DG + intensité de la souffrance."
+                "int": "Traduit la difficulté du récit de DG + intensifie de la souffrance."
             },
             {
                 "proc": "Champ lexical de la tragédie",
@@ -363,7 +363,7 @@ const texts = {
                 "int": "Attenue la douleur de DG."
             },
             {
-                "proc": "Adverbe",
+                "proc": "Complément circonstanciel de manière",
                 "cit": "(l.4) « tranquillement »",
                 "int": "Atmosphère paisible, la mort survient dans le calme."
             },
