@@ -325,7 +325,7 @@ const texts = {
             }
         ]
     }, "LL4 Récit douloureux de la mort de Manon": {
-        "color": "#F4C7C7",
+        "color": "#faa0a0",
         "texts": [
             {
                 "proc": "Impératif 2ème personne",
