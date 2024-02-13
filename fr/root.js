@@ -380,7 +380,7 @@ const texts = {
             {
                 "proc": "Seules paroles de Manon rapportées au discours indirect + Complément Circonstanciel de Manière + Périphrase",
                 "cit": "(l.7) « elle me dit d'une voix faible qu'elle se croyait à sa dernière heure »",
-                "int": "Renforce le côté pathétique de l'agonie de Manon. ET La mort n'est jamais nommée pour traduire la douleur/déni de DG."
+                "int": "Renforce côté pathétique de l'agonie de Manon ET La mort n'est jamais nommée pour traduire la douleur/déni de DG."
             },
             {
                 "proc": "Négation restrictive (ne...que)",
@@ -388,7 +388,7 @@ const texts = {
                 "int": "DG est dans le déni."
             },
             {
-                "proc": "Longue phrase : - Énumération de groupes nominaux [en crochet] \n - Se termine par une périphrase évoquant la mort « la fin de ses malheurs approchait »",
+                "proc": "Longue phrase : - Énumération groupes nominaux  \n     - Se termine par périphrase évoquant la mort « la fin de ses malheurs approchait »",
                 "cit": "(l.9) « Mais, ses soupirs fréquents, son silence à mes interrogations, le serrement de ses mains, dans lesquelles elle continuait de tenir les miennes, me firent connaître que la fin de ses malheurs approchait »",
                 "int": "DG retarde la mort et Prise de conscience progressive."
             },
