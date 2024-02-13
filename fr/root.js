@@ -324,6 +324,105 @@ const texts = {
                 "int": "La certitude exprimée montre l'inflexibilité du père"
             }
         ]
+    }, "LL4 Récit douloureux de la mort de Manon": {
+        "color": "#F4C7C7",
+        "texts": [
+            {
+                "proc": "Impératif 2ème personne",
+                "cit": "(l.1) « Pardonnez »",
+                "int": "DG implore l'indulgence de son destinataire."
+            },
+            {
+                "proc": "Hyperbole + Complément Circonstanciel de Manière",
+                "cit": "(l.1) « si j'achève en peu de mots un récit qui me tue »",
+                "int": "Traduit la difficulté du récit de DG + intensité de la souffrance."
+            },
+            {
+                "proc": "Périphrase, désigne la mort de Manon",
+                "cit": "(l.1) « un malheur qui n'eut jamais d'exemple »",
+                "int": "Traduit la difficulté du récit de DG + intensité de la souffrance."
+            },
+            {
+                "proc": "Hyperbole",
+                "cit": "(l.1) « qui n'eut jamais d'exemple »",
+                "int": "Rappelle que Manon est un personnage hors du commun."
+            },
+            {
+                "proc": "Champ lexical de la tragédie",
+                "cit": "(l.1-3) « Tue », « Malheur », « destinée », « pleurer », « reculer d'horreur »",
+                "int": "La fatalité qui s'abat sur les personnages fait d'eux des héros de tragédie."
+            },
+            {
+                "proc": "Présent à valeur d'habitude + Complément Circonstanciel de Temps",
+                "cit": "(l.2) « je le porte sans cesse » (l.3) « chaque fois que j'entreprends »",
+                "int": "Exprime une douleur intense car sans cesse renouvelée."
+            },
+            {
+                "proc": "Changement de temps : Présent (paragraphe 1) => plus-que-parfait (l.4)",
+                "cit": "(l.4) « nous avions passé",
+                "int": "Plus-que-parfait exprime antériorité, DG commence donc le récit de la mort de Manon."
+            },
+            {
+                "proc": "Euphémismes (La mort est associée au sommeil)",
+                "cit": "(l.4) « endormie » (l.6) « son sommeil »",
+                "int": "Attenue la douleur de DG."
+            },
+            {
+                "proc": "Adverbe",
+                "cit": "(l.4) « tranquillement »",
+                "int": "Atmosphère paisible, la mort survient dans le calme."
+            },
+            {
+                "proc": "Périphrase, désigne Manon",
+                "cit": "(l.4) « ma chère maîtresse »",
+                "int": "Montre l'affection de DG pour Manon, elle est valorisée."
+            },
+            {
+                "proc": "Champ lexical du toucher",
+                "cit": "(l.6-10) « Ses mains » « approchai » « sentit » « serrement de ses mains »",
+                "int": "Proximité des corps des amants, montre l'amour réciproque."
+            },
+            {
+                "proc": "Seules paroles de Manon rapportées au discours indirect + Complément Circonstanciel de Manière + Périphrase",
+                "cit": "(l.7) « elle me dit d'une voix faible qu'elle se croyait à sa dernière heure »",
+                "int": "Renforce le côté pathétique de l'agonie de Manon. ET La mort n'est jamais nommée pour traduire la douleur/déni de DG."
+            },
+            {
+                "proc": "Négation restrictive (ne...que)",
+                "cit": "(l.8-9) « je ne pris d'abord ce discours que pour un langage ordinaire dans l'infortune »",
+                "int": "DG est dans le déni."
+            },
+            {
+                "proc": "Longue phrase : - Énumération de groupes nominaux [en crochet] \n - Se termine par une périphrase évoquant la mort « la fin de ses malheurs approchait »",
+                "cit": "(l.9) « Mais, ses soupirs fréquents, son silence à mes interrogations, le serrement de ses mains, dans lesquelles elle continuait de tenir les miennes, me firent connaître que la fin de ses malheurs approchait »",
+                "int": "DG retarde la mort et Prise de conscience progressive."
+            },
+            {
+                "proc": "Complément Circonstanciel de Temps",
+                "cit": "(l.12-13) « je reçus d'elle les marques d'amour, au moment même qu'elle expirait »",
+                "int": "Son amour paraît sincère car déclaré pendant qu'elle meurt."
+            },
+            {
+                "proc": "Euphémisme + proposition brève",
+                "cit": "(l.12) « je la perdis »",
+                "int": "Attenue la violence de l'évènement car DG éprouve une douleur intense."
+            },
+            {
+                "proc": "Vocabulaire religieux : « Ciel » mis en valeur avec majuscule",
+                "cit": "(l.14) « Le Ciel ne me trouva point »",
+                "int": "Ciel = Dieu, DG subit la punition divine comme un héros tragique et est donc impuissant."
+            },
+            {
+                "proc": "2 adjectifs + Adverbe « depuis »",
+                "cit": "(l.15) « il a voulu que j'aie traîné, depuis, une vie languissante et misérable",
+                "int": "Adjectifs insistent sur la souffrance de DG + Adverbe renforce la souffrance car inscrite dans la durée."
+            },
+            {
+                "proc": "Verbe « Renonce » + Adverbe « Jamais",
+                "cit": "(l.15) « je renonce à la mener jamais plus heureuse »",
+                "int": "La mort de Manon entraîne la mort symbolique de DG, il n'a plus aucun plaisir à vivre."
+            }
+        ]
     }
 }
 
