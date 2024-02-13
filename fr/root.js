@@ -338,14 +338,9 @@ const texts = {
                 "int": "Traduit la difficulté du récit de DG + intensité de la souffrance."
             },
             {
-                "proc": "Périphrase, désigne la mort de Manon",
+                "proc": "Périphrase + hyperbole, désigne la mort de Manon",
                 "cit": "(l.1) « un malheur qui n'eut jamais d'exemple »",
                 "int": "Traduit la difficulté du récit de DG + intensité de la souffrance."
-            },
-            {
-                "proc": "Hyperbole",
-                "cit": "(l.1) « qui n'eut jamais d'exemple »",
-                "int": "Rappelle que Manon est un personnage hors du commun."
             },
             {
                 "proc": "Champ lexical de la tragédie",
