@@ -505,7 +505,7 @@ const texts = {
             {
                 "proc": "Monologue constituée que d'une seule phrase.",
                 "cit": "(Tout le texte)",
-                "int": "Tout est prononcé dans un flot de parole sans interruption, comme si Louis laisse exprimer son inconscient Montre que la parole sera un élément important de la pièce."
+                "int": "La parole lui permet de dire tout ce qu'il a sur la conscience. Montre que la parole est un élément important de la pièce"
             }
         ]
     }    
