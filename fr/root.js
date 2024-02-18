@@ -500,7 +500,7 @@ const texts = {
             {
                 "proc": "Champ lexical de l'illusion",
                 "cit": "(l.37) « paraître », (l.41) « l'illusion »",
-                "int": "Champ lexical de l’illusion remet en cause Champ lexical de la volonté. Montre que l’aveu sera difficile"
+                "int": "Champ lexical de l’illusion en contradiction avec Champ lexical de la volonté. Montre que l’aveu sera difficile"
             },
             {
                 "proc": "Monologue constituée que d'une seule phrase.",
