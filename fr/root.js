@@ -470,7 +470,7 @@ const texts = {
             {
                 "proc": "Répétition du préfixe « re» qui sert à évoquer une répétition",
                 "cit": "(l.21) « retourner les voir, revenir sur mes pas »",
-                "int": "Le retour dans sa famille symbolise un retour vers son passé, avant la maladie comme pour oublier la mort"
+                "int": "Retour famille symbolise retour passé, avant maladie afin d'oublier la mort"
             },
             {
                 "proc": "Polysémie (plusieurs sens): - Désigne le déplacement physique            - Passage symbolique de la vie à la mort.",
@@ -479,11 +479,11 @@ const texts = {
             },
             {
                 "proc": "Nombreux compléments circonstanciels de manière",
-                "cit": "(l.23) « lentement, avec soin, avec soin et précision »(l.25) « lentement, calmement, d'une manière posée »",
+                "cit": "(l.23) « annoncer, lentement, avec soin, avec soin et précision »(l.25) « lentement, calmement, d'une manière posée »",
                 "int": "Comme un metteur en scène, il réfléchit à la meilleure manière d'annoncer sa maladie"
             },
             {
-                "proc": "Polysémie du mot « soin » ( = traitement médical/ avec précaution)",
+                "proc": "Polysémie :  - traitement médical                      - avec précaution",
                 "cit": "(l.23) « soin »",
                 "int": "Le fait d'annoncer sa maladie apparait comme un remède"
             },
