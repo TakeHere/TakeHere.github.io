@@ -420,7 +420,7 @@ const texts = {
         ]
     },
     "LL5 Prologue Lagarce": {
-        "color": "#9FF4FF",
+        "color": "#a86232",
         "texts": [
             {
                 "proc": "Monologue avec Prolepse",
