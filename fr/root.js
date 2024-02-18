@@ -418,7 +418,97 @@ const texts = {
                 "int": "La mort de Manon entraîne la mort symbolique de DG, il n'a plus aucun plaisir à vivre."
             }
         ]
-    }
+    },
+    "LL5 Prologue Lagarce": {
+        "color": "#9FF4FF",
+        "texts": [
+            {
+                "proc": "Monologue avec Prolepse",
+                "cit": "(l.1-2) « Plus tard, l'année d'après / J'allais mourir à mon tour ».",
+                "int": "Rappelle la tragédie grecque où le chœur annonçait ce qui allait se passer plus tard."
+            },
+            {
+                "proc": "Répétition du verbe mourir.",
+                "cit": "(l.2) « Mourir », (l.4) « je mourrais »",
+                "int": "Importance de ce thème de la mort"
+            },
+            {
+                "proc": "Verbe conjugué au futur",
+                "cit": "(l.4) « je mourrai »",
+                "int": "Louis annonce sa propre mort certaine"
+            },
+            {
+                "proc": "Répétition de l'expression « l'année d'après » (correspond à date de sa mort) sonne comme un compte à rebours.",
+                "cit": "(l.1, 5, 9, 15, 20) « l'année d'après)",
+                "int": "Louis est confronté à la fatalité (destin tragique qu'il ne contrôle pas) ici, la maladie."
+            },
+            {
+                "proc": "Champ lexical du temps très présent.",
+                "cit": "(l.1) « plus tard », (l.6 et 8) « de nombreux mois »",
+                "int": "Souligne l'importance du temps, + il passe, + il se rapproche de la mort"
+            },
+            {
+                "proc": "Verbes ou expressions se rapportant à l'immobilité",
+                "cit": "(l.6) « j'attendais à ne rien faire », (l.8) « j'attendais », (l.10-11) « on ose bouger »",
+                "int": "Immobilité symbolise sa mort certaine"
+            },
+            {
+                "proc": "Nombreuses négations",
+                "cit": "(l.6) « ne rien faire », (l.7) « ne plus savoir », (l.18) « sans espoir jamais »",
+                "int": "Symbolise pessimisme de Louis impuissant face à la maladie et mort"
+            },
+            {
+                "proc": "Champ lexical de la violence vient compléter celui du temps",
+                "cit": "(l.12) « danger extrême », (l.14) « réveillerais l'ennemi et vous détruirait aussitôt »",
+                "int": "Le temps est évoqué comme un ennemi dangereux car Louis se rapproche de la mort."
+            },
+            {
+                "proc": "Répétition de « malgré tout »",
+                "cit": "(l.16 et 19) « malgré tout »",
+                "int": "Retournement de situation: Louis décide finalement de mener un combat contre la maladie et la mort en revenant dans sa famille."
+            },
+            {
+                "proc": "Répétition du préfixe « re» qui sert à évoquer une répétition",
+                "cit": "(l.21) « retourner les voir, revenir sur mes pas »",
+                "int": "Le retour dans sa famille symbolise un retour vers son passé, avant la maladie comme pour oublier la mort"
+            },
+            {
+                "proc": "Polysémie (plusieurs sens): - Désigne le déplacement physique            - Passage symbolique de la vie à la mort.",
+                "cit": "(l.22) « faire le voyage »",
+                "int": "Voyage = moyen symbolique de lutter contre la mort."
+            },
+            {
+                "proc": "Nombreux compléments circonstanciels de manière",
+                "cit": "(l.23) « lentement, avec soin, avec soin et précision »(l.25) « lentement, calmement, d'une manière posée »",
+                "int": "Comme un metteur en scène, il réfléchit à la meilleure manière d'annoncer sa maladie"
+            },
+            {
+                "proc": "Polysémie du mot « soin » ( = traitement médical/ avec précaution)",
+                "cit": "(l.23) « soin »",
+                "int": "Le fait d'annoncer sa maladie apparait comme un remède"
+            },
+            {
+                "proc": "Champ lexical de la parole très présent",
+                "cit": "(l.23, 28, 32) « annoncer », (l.29, 30) « dire », (l.32) « messager »",
+                "int": "Comme le cœur d'une tragédie, il annonce la suite des évènements et notamment l'importance de l'aveu de sa maladie à sa famille"
+            },
+            {
+                "proc": "Champ lexical de la volonté",
+                "cit": "(l.34) « voulu, voulu et décidé »(l.39) « être responsable de moi-même »(l.40) « mon propre maître »",
+                "int": "Louis tente de garder la maîtrise de son destin."
+            },
+            {
+                "proc": "Champ lexical de l'illusion",
+                "cit": "(l.37) « paraître », (l.41) « l'illusion »",
+                "int": "Champ lexical de l'illusion remet en cause celui de la volonté, pour montrer que l'aveu sera difficile"
+            },
+            {
+                "proc": "Monologue constituée que d'une seule phrase.",
+                "cit": "(Tout le texte)",
+                "int": "Tout est prononcé dans un flot de parole sans interruption, comme si Louis laisse exprimer son inconscient Montre que la parole sera un élément important de la pièce."
+            }
+        ]
+    }    
 }
 
 let currentTextDeck = {}
