@@ -490,7 +490,7 @@ const texts = {
             {
                 "proc": "Champ lexical de la parole très présent",
                 "cit": "(l.23, 28, 32) « annoncer », (l.29, 30) « dire », (l.32) « messager »",
-                "int": "Comme le cœur d'une tragédie, il annonce la suite des évènements et notamment l'importance de l'aveu de sa maladie à sa famille"
+                "int": "Comme le choeur d'une tragédie, il annonce la suite des évènements et notamment l'importance de l'aveu de sa maladie à sa famille"
             },
             {
                 "proc": "Champ lexical de la volonté",
@@ -500,7 +500,7 @@ const texts = {
             {
                 "proc": "Champ lexical de l'illusion",
                 "cit": "(l.37) « paraître », (l.41) « l'illusion »",
-                "int": "Champ lexical de l'illusion remet en cause celui de la volonté, pour montrer que l'aveu sera difficile"
+                "int": "Champ lexical de l’illusion remet en cause Champ lexical de la volonté. Montre que l’aveu sera difficile"
             },
             {
                 "proc": "Monologue constituée que d'une seule phrase.",
