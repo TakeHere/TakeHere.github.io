@@ -424,7 +424,7 @@ const texts = {
         "texts": [
             {
                 "proc": "Monologue avec Prolepse",
-                "cit": "(l.1-2) « Plus tard, l'année d'après / J'allais mourir à mon tour ».",
+                "cit": "(l.1-2) « Plus tard, l'année d'après - J'allais mourir à mon tour -».",
                 "int": "Rappelle la tragédie grecque où le chœur annonçait ce qui allait se passer plus tard."
             },
             {
@@ -460,12 +460,12 @@ const texts = {
             {
                 "proc": "Champ lexical de la violence vient compléter celui du temps",
                 "cit": "(l.12) « danger extrême », (l.14) « réveillerais l'ennemi et vous détruirait aussitôt »",
-                "int": "Le temps est évoqué comme un ennemi dangereux car Louis se rapproche de la mort."
+                "int": "Le temps est évoqué comme un ennemi dangereux car il rapproche Louis de la mort."
             },
             {
                 "proc": "Répétition de « malgré tout »",
                 "cit": "(l.16 et 19) « malgré tout »",
-                "int": "Retournement de situation: Louis décide finalement de mener un combat contre la maladie et la mort en revenant dans sa famille."
+                "int": "Retournement de situation : Louis décide de faire face à sa maladie et sa mort en revenant dans sa famille"
             },
             {
                 "proc": "Répétition du préfixe « re» qui sert à évoquer une répétition",
