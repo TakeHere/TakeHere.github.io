@@ -459,7 +459,7 @@ const texts = {
             },
             {
                 "proc": "Champ lexical de la violence vient compléter celui du temps",
-                "cit": "(l.12) « danger extrême », (l.14) « réveillerais l'ennemi et vous détruirait aussitôt »",
+                "cit": "(l.12) « danger extrême », (l.13) « un geste trop violent », (l.14) « réveillerais l’ennemi et vous détruirait aussitôt »",
                 "int": "Le temps est évoqué comme un ennemi dangereux car il rapproche Louis de la mort."
             },
             {
