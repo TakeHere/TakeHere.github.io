@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+    font-family: "Helvetica";
+    font-size: 30px;
+}
+
+body{
+    background-color: #3F3F3F;
+}
+
+label, p, h1, li{
+    color: #C8C8C8;
+}
+
+h1{
+    font-size: 60px;
+}
