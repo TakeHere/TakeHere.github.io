@@ -132,7 +132,7 @@ function setup() {
         let dot = new Dot(
             new Vector2(CANVAS_CENTER.x, CANVAS_CENTER.y * 0.2), color(rainbow.r, rainbow.g, rainbow.b), randomInt(10, 20), dotsSpawned
         )
-        dot.accelerate(new Vector2(-0.4, 1).mul(5000000))
+        dot.accelerate(new Vector2(-0.4, 1).mul(500000))
         dots.push(dot)
 
         dotsSpawned++

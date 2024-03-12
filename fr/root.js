@@ -508,7 +508,92 @@ const texts = {
                 "int": "La parole lui permet de dire tout ce qu'il a sur la conscience. Montre que la parole est un élément important de la pièce"
             }
         ]
-    }    
+    },
+    "LL6 Soliloque Mère": {
+        "color": "#e0c828",
+        "texts": [
+            {
+                "proc": "Epanorthose car reformulation de « vouloir » l'indicatif =\> conditionnel      ET    Pronom personnel « ils »",
+                "cit": "(l.128) « ce qu'ils veulent, ce qu'ils voudraient »",
+                "int": "Sa demande relève du domaine de l'imaginaire. Donc son discours traduit l'incertitude et l'hésitation.      ET      La mère parle pour Antoine et Suzanne."
+            },
+            {
+                "proc": "Modalisateur",
+                "cit": "(l.129) « peut-être »",
+                "int": "Traduis l'hésitation de la mère."
+            },
+            {
+                "proc": "Question rhétorique entre deux tirets",
+                "cit": "(l.130-131) « – Est-ce qu'ils ne manquent pas toujours de ça, qu'on les encourage ? – »",
+                "int": "Les tirets viennent rompre la fluidité du discours, montre l'hésitation. ET Rappelle que le discours de la mère est argumentatif."
+            },
+            {
+                "proc": "Champ lexical du droit",
+                "cit": "(l.132-134) « Que tu leur interdises », « que tu les autorises », « que tu leur dises »",
+                "int": "Elle imagine un scénario familial où Louis reprendrait sa place d'aîné autoritaire."
+            },
+            {
+                "proc": "Répétition de la subordonnée « que tu dises » avec une variante (passage de « leur » à « Suzanne »)",
+                "cit": "(l.134) « que tu leur dises »(l.135 et l.139) « Que tu dises à Suzanne »",
+                "int": "Traduit la difficulté pour la mère à exprimer sa demande."
+            },
+            {
+                "proc": "L'anacoluthe (structure de la phrase est interrompue) entre tirets vient retarder la demande « que tu dises à Suzanne de venir » (l.139)",
+                "cit": "(l.136-138) « - même si ce n'est pas vrai, un mensonge qu'est-ce que ça fait ? Juste une promesse qu'on fait en sachant qu'on ne la tiendra pas - »",
+                "int": "Impose à Louis ce qu'il doit dire à Suzanne et l'anacoluthe montre son hésitation"
+            },
+            {
+                "proc": "Changement de temps :Futur (Certitude) =\> Conditionnel (Incertitude/imagination)",
+                "cit": "(l.142-143) « qu'elle pourra, qu'elle pourrait te rendre visite »",
+                "int": "Ce changement montre qu'elle ne croit pas que Suzanne ira voir son frère"
+            },
+            {
+                "proc": "2x Subordonnées Circonstancielle d'hypothèse",
+                "cit": "(l.143-144) « si l'envie lui vient, si l'envie la prenait »",
+                "int": "Renforce doutes de la mère"
+            },
+            {
+                "proc": "pronom « NOUS » dans une phrase entre parenthèses.",
+                "cit": "(l.146) « (nous ne savons pas où tu vis) »",
+                "int": "Discours rompu par un reproche collectif."
+            },
+            {
+                "proc": "Vocabulaire affectif + répétition du verbe « t'intéresses »",
+                "cit": "(l.148-150) « intéresses », « intéresser », « intéresses » « soucies »",
+                "int": "La stratégie de la mère consiste à toucher Louis"
+            },
+            {
+                "proc": "Emploi du subjonctif",
+                "cit": "(l.151-153) « Que tu lui donnes à lui, Antoine, le sentiment qu'il n'est plus responsable de nous »",
+                "int": "Exprime l'ordre qu'elle donne à Louis"
+            },
+            {
+                "proc": "Négations",
+                "cit": "(l.153) « il n'est plus responsable de nous », (l.155) « il ne l'as jamais été »",
+                "int": "Traduit la rupture avec le passé."
+            },
+            {
+                "proc": "Commentaire entre tirets",
+                "cit": "(l.155-163) « - il ne l'as jamais été […] un rôle qui n'est pas le sien - »",
+                "int": "Vient nuancer/annuler le rôle joué par Antoine."
+            },
+            {
+                "proc": "Comparatif de supériorité « mieux que »",
+                "cit": "(l.156) « je sais cela mieux que quiconque »",
+                "int": "Elle se donne statut supérieur, elle sait tout."
+            },
+            {
+                "proc": "Champ lexical de l'illusion",
+                "cit": "(l.157) « il a toujours cru », (l.158) « a toujours voulu le croire », (l.160) « il se voulait responsable »",
+                "int": "La mère remet en cause le rôle joué par Antoine."
+            },
+            {
+                "proc": "Vocabulaire du théâtre associé au verbe « voler »",
+                "cit": "(l.162) « Voler un rôle »",
+                "int": "Pour la mère, Antoine a usurpé la place de l'aîné. Elle encourage Louis à reprendre sa place. Le verbe volé insiste sur la position illégitime d'Antoine."
+            }
+        ]
+    }
 }
 
 let currentTextDeck = {}
