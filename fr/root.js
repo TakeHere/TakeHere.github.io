@@ -513,9 +513,9 @@ const texts = {
         "color": "#e0c828",
         "texts": [
             {
-                "proc": "Epanorthose car reformulation de « vouloir » l'indicatif =\> conditionnel      ET    Pronom personnel « ils »",
+                "proc": "Epanorthose car reformulation de « vouloir » l'indicatif =\> conditionnel\n           ET          Pronom personnel « ils »",
                 "cit": "(l.128) « ce qu'ils veulent, ce qu'ils voudraient »",
-                "int": "Sa demande relève du domaine de l'imaginaire. Donc son discours traduit l'incertitude et l'hésitation.      ET      La mère parle pour Antoine et Suzanne."
+                "int": "Sa demande relève du domaine de l'imaginaire. Donc son discours traduit l'incertitude et l'hésitation.\n            ET           La mère parle pour Antoine et Suzanne."
             },
             {
                 "proc": "Modalisateur",
