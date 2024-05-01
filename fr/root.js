@@ -528,19 +528,19 @@ const texts = {
                 "int": "Les tirets viennent rompre la fluidité du discours, montre l'hésitation. ET Rappelle que le discours de la mère est argumentatif."
             },
             {
-                "proc": "Champ lexical du droit",
-                "cit": "(l.132-134) « Que tu leur interdises », « que tu les autorises », « que tu leur dises »",
-                "int": "Elle imagine un scénario familial où Louis reprendrait sa place d'aîné autoritaire."
+                "proc": "Énumération de Subjonctif à valeur d’ordre ",
+                "cit": "(l.132-134) « Que tu les encourages, que tu les autorises ou que tu leur interdises de faire telle ou telle chose, que tu leur dises, que tu dises à Suzanne »",
+                "int": "Elle incite Louis à reprendre sa place d’ainé au sein de la famille."
             },
             {
-                "proc": "Répétition de la subordonnée « que tu dises » avec une variante (passage de « leur » à « Suzanne »)",
-                "cit": "(l.134) « que tu leur dises »(l.135 et l.139) « Que tu dises à Suzanne »",
-                "int": "Traduit la difficulté pour la mère à exprimer sa demande."
+                "proc": "Pronom « leur » => nom « Suzanne » ",
+                "cit": "(l.134-135) « Que tu leur dises\n       Que tu dises à Suzanne »",
+                "int": "Changement rapide de destinataire :\n    Traduit la difficulté pour la mère à exprimer sa demande."
             },
             {
-                "proc": "L'anacoluthe (structure de la phrase est interrompue) entre tirets vient retarder la demande « que tu dises à Suzanne de venir » (l.139)",
+                "proc": "L’anacoluthe entre tirets vient retarder la demande d’inciter Suzanne à lui rendre visite",
                 "cit": "(l.136-138) « - même si ce n'est pas vrai, un mensonge qu'est-ce que ça fait ? Juste une promesse qu'on fait en sachant qu'on ne la tiendra pas - »",
-                "int": "Impose à Louis ce qu'il doit dire à Suzanne et l'anacoluthe montre son hésitation"
+                "int": "L’anacoluthe montre son hésitation"
             },
             {
                 "proc": "Changement de temps :Futur (Certitude) =\> Conditionnel (Incertitude/imagination)",
@@ -564,7 +564,7 @@ const texts = {
             },
             {
                 "proc": "Emploi du subjonctif",
-                "cit": "(l.151-153) « Que tu lui donnes à lui, Antoine, le sentiment qu'il n'est plus responsable de nous »",
+                "cit": "(l.151-152) « Que tu lui donnes à lui, Antoine »",
                 "int": "Exprime l'ordre qu'elle donne à Louis"
             },
             {
@@ -590,7 +590,7 @@ const texts = {
             {
                 "proc": "Vocabulaire du théâtre associé au verbe « voler »",
                 "cit": "(l.162) « Voler un rôle »",
-                "int": "Pour la mère, Antoine a usurpé la place de l'aîné. Elle encourage Louis à reprendre sa place. Le verbe volé insiste sur la position illégitime d'Antoine."
+                "int": "Position illégitime d’Antoine qui a pris la place de l’ainé. Elle encourage donc Louis à reprendre sa place "
             }
         ]
     }
