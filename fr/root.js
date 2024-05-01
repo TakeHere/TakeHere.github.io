@@ -682,6 +682,9 @@ function generateCard(){
     intCorrSelector.innerHTML = "..."
 
     cardTableTitleSelector.style.backgroundColor = texts[textSelector.value].color
+
+    //Set focuss to proc textArea
+    procUserSelector.focus()
 }
 
 function updateCardsAmountInfos(){
