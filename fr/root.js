@@ -765,8 +765,8 @@ function textSelectorChanged(){
 function shuffleCards(){
     resetCardsCounter()
 
-    currentTextDeckWorking = JSON.parse(JSON.stringify(currentTextDeck)).sort((a, b) => 0.5 - Math.random());
-    //currentTextDeckWorking = [...currentTextDeck]
+    //currentTextDeckWorking = JSON.parse(JSON.stringify(currentTextDeck)).sort((a, b) => 0.5 - Math.random());
+    currentTextDeckWorking = [...currentTextDeck]
 }
 
 function resetCardsCounter(){
