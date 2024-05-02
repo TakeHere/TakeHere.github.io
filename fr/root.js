@@ -550,10 +550,10 @@ const texts = {
             {
                 "proc": "2x Subordonnées Circonstancielle d'hypothèse",
                 "cit": "(l.143-144) « si l'envie lui vient, si l'envie la prenait »",
-                "int": "Renforce doutes de la mère"
+                "int": "Exprime doutes de la mère"
             },
             {
-                "proc": "pronom « NOUS » dans une phrase entre parenthèses.",
+                "proc": "Pronom personnel « Nous » + phrase entre parenthèses",
                 "cit": "(l.146) « (nous ne savons pas où tu vis) »",
                 "int": "Discours rompu par un reproche collectif."
             },
