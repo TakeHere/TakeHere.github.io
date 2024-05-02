@@ -538,9 +538,9 @@ const texts = {
                 "int": "Changement rapide de destinataire :\n    Traduit la difficulté pour la mère à exprimer sa demande."
             },
             {
-                "proc": "L’anacoluthe entre tirets vient retarder la demande d’inciter Suzanne à lui rendre visite",
+                "proc": "L’anacoluthe entre tirets",
                 "cit": "(l.136-138) « - même si ce n'est pas vrai, un mensonge qu'est-ce que ça fait ? Juste une promesse qu'on fait en sachant qu'on ne la tiendra pas - »",
-                "int": "L’anacoluthe montre son hésitation"
+                "int": "Anacoluthe traduis hésitation + Retarde la demande de la mère pour que Louis invite Suzanne à lui rendre visite"
             },
             {
                 "proc": "Changement de temps :Futur (Certitude) =\> Conditionnel (Incertitude/imagination)",
