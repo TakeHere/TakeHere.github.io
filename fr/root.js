@@ -533,9 +533,9 @@ const texts = {
                 "int": "Elle incite Louis à reprendre sa place d’ainé au sein de la famille."
             },
             {
-                "proc": "Pronom « leur » => nom « Suzanne » ",
+                "proc": "Pronom « leur » => nom « Suzanne »",
                 "cit": "(l.134-135) « Que tu leur dises\n       Que tu dises à Suzanne »",
-                "int": "Changement rapide de destinataire :\n    Traduit la difficulté pour la mère à exprimer sa demande."
+                "int": "Changement rapide de destinataire, traduis l'hésitation de la mère car elle n'arrive pas à formuler sa demande"
             },
             {
                 "proc": "L’anacoluthe entre tirets",
