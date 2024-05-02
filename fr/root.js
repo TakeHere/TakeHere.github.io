@@ -540,7 +540,7 @@ const texts = {
             {
                 "proc": "L’anacoluthe entre tirets",
                 "cit": "(l.136-138) « - même si ce n'est pas vrai, un mensonge qu'est-ce que ça fait ? Juste une promesse qu'on fait en sachant qu'on ne la tiendra pas - »",
-                "int": "Anacoluthe traduis hésitation + Retarde la demande de la mère pour que Louis invite Suzanne à lui rendre visite"
+                "int": "Anacoluthe traduis hésitation + Retarde la demande de la mère : elle voudrait que louis invite sa soeur"
             },
             {
                 "proc": "Changement de temps :Futur (Certitude) =\> Conditionnel (Incertitude/imagination)",
