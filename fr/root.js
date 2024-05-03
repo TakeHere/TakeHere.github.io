@@ -575,7 +575,7 @@ const texts = {
             {
                 "proc": "Commentaire entre tirets",
                 "cit": "(l.155-163) « - il ne l'as jamais été […] un rôle qui n'est pas le sien - »",
-                "int": "Vient nuancer/annuler le rôle joué par Antoine."
+                "int": "Remet en cause le rôle joué par Antoine"
             },
             {
                 "proc": "Comparatif de supériorité « mieux que »",
@@ -585,7 +585,7 @@ const texts = {
             {
                 "proc": "Champ lexical de l'illusion",
                 "cit": "(l.157) « il a toujours cru », (l.158) « a toujours voulu le croire », (l.160) « il se voulait responsable »",
-                "int": "La mère remet en cause le rôle joué par Antoine."
+                "int": "Remet en cause le rôle joué par Antoine"
             },
             {
                 "proc": "Vocabulaire du théâtre associé au verbe « voler »",
