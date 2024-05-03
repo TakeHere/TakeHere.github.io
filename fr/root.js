@@ -565,7 +565,7 @@ const texts = {
             {
                 "proc": "Emploi du subjonctif",
                 "cit": "(l.151-152) « Que tu lui donnes à lui, Antoine »",
-                "int": "Exprime l'ordre qu'elle donne à Louis"
+                "int": "Elle donne un ordre à Louis"
             },
             {
                 "proc": "Négations",
