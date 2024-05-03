@@ -580,7 +580,7 @@ const texts = {
             {
                 "proc": "Comparatif de supériorité « mieux que »",
                 "cit": "(l.156) « je sais cela mieux que quiconque »",
-                "int": "Elle se donne statut supérieur, elle sait tout."
+                "int": "Elle se donne statut supérieur car elle sait tout."
             },
             {
                 "proc": "Champ lexical de l'illusion",
