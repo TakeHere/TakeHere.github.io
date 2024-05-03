@@ -590,7 +590,7 @@ const texts = {
             {
                 "proc": "Vocabulaire du théâtre associé au verbe « voler »",
                 "cit": "(l.162) « Voler un rôle »",
-                "int": "Position illégitime d’Antoine qui a pris la place de l’ainé. Elle encourage donc Louis à reprendre sa place "
+                "int": "Antoine a pris la position d'ainé de manière illégitime, la mère encourage donc louis à reprendre sa place"
             }
         ]
     }
