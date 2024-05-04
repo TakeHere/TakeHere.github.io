@@ -593,6 +593,110 @@ const texts = {
                 "int": "Antoine a pris la position d'ainé de manière illégitime, la mère encourage donc louis à reprendre sa place"
             }
         ]
+    }, "LL7 Épilogue Juste la fin du monde": {
+        "color": "#7ce6bf",
+        "texts": [
+            {
+                "proc": "Adverbe de temps",
+                "cit": "« Après » (l 1)",
+                "int": "Comme les pièces de l’Antiquité, prologue et épilogue encadrent le récit."
+            },
+            {
+                "proc": "Verbes au présent",
+                "cit": "« ce que je fais, je pars » (l 1)",
+                "int": "Surprenant car il utilise présent au lieu de passé composé car l'histoire est finie."
+            },
+            {
+                "proc": "Négation totale (ne…plus) + Adverbe « jamais »",
+                "cit": "« Je ne reviens plus jamais. » (l.3)",
+                "int": "Louis annonce son départ de façon définitive."
+            },
+            {
+                "proc": "Verbe « mourir » au présent + prosopopée",
+                "cit": "« Je meurs » (l 3)",
+                "int": "Surprend car c'est un personnage mort qui s'adresse à nous."
+            },
+            {
+                "proc": "Compléments circonstanciels de temps peu précis",
+                "cit": "« quelques mois plus tard »(l.3), « une année tout au plus »(l.4)",
+                "int": "Intensifie le caractère insaisissable de Louis."
+            },
+            {
+                "proc": "Verbe « se souvenir »",
+                "cit": "« une chose dont je me souviens et que je raconte» (L 5)",
+                "int": "Louis raconte anecdote du passé, située avant son départ de la famille."
+            },
+            {
+                "proc": "Verbes au présent de narration",
+                "cit": "« c'est l'été, c'est pendant ces années où je suis absent » (l. 7)",
+                "int": "Permet au lecteur de vivre cet instant."
+            },
+            {
+                "proc": "Polysémie :- fin du récit- fin de vie",
+                "cit": "« j'en aurai fini » (l. 6)",
+                "int": "Désigne fin du récit et fin de vie de Louis, contribue au registre tragique."
+            },
+            {
+                "proc": "Compléments circonstanciels de lieux et de temps précis",
+                "cit": "« l'été, dans le Sud de la France, pendant ces années où je suis absent » (L 7-8)",
+                "int": "Permet au lecteur de vivre cet instant."
+            },
+            {
+                "proc": "Pronom «je » + Compléments circonstanciels de temps et lieux",
+                "cit": "« je me suis perdu, la nuit, dans la montagne » ( l, 9),«  sous la lune » (l 15)«  dans la nuit » (l. 17)",
+                "int": "Donne tonalité lyrique car évoque des souvenirs personnels."
+            },
+            {
+                "proc": "Complément circonstanciel de cause + Polysémie sens propre/sens figuré",
+                "cit": "« parce que je me suis perdu » (l.9)",
+                "int": "Sens propre : Il a perdu son chemin dans la montagne\n           Sens figuré : Il n'a pas su prendre les bonnes décisions durant sa vie."
+            },
+            {
+                "proc": "Complément circonstanciel de lieu",
+                "cit": "« le long de la voie ferrée » (l 10)",
+                "int": "« Voie ferrée » symbolise destin qu'il ne peut pas modifier."
+            },
+            {
+                "proc": "Champ lexical de la trajectoire",
+                "cit": "« méandres de la route », « le chemin sera plus court », « elle passe près de la maison où je vis » ( l 11-12)",
+                "int": "Méandres symbolise les hésitations de Louis durant sa vie et ses difficultés à s'exprimer."
+            },
+            {
+                "proc": "Adjectif « seul »",
+                "cit": "« Je marche seul » (l.17)",
+                "int": "Symbolise avancée vers la mort."
+            },
+            {
+                "proc": "Complément circonstanciel de lieu",
+                "cit": "« à égale distance du ciel et de la terre » (l.18)",
+                "int": "Comme si Louis se trouvait entre deux mondes, celui de la vie et celui de la mort."
+            },
+            {
+                "proc": "Forme emphatique entre parenthèses (c'est…que)",
+                "cit": "(et c'est cela que je voulais dire) (l.20)",
+                "int": "Souligne importance du cri, symbole de libération."
+            },
+            {
+                "proc": "Emploi conditionnel",
+                "cit": "« devrais » ( L.21), « résonnerait », ( L.22)« devrait » (L.23)",
+                "int": "Conditionnel exprime un souhait non accompli, il est donc frustré."
+            },
+            {
+                "proc": "Lexique mélioratif",
+                "cit": "« grand, beau cri », « long et joyeux cri » (l.21-22)",
+                "int": "Valorise le cri."
+            },
+            {
+                "proc": "Négations",
+                "cit": "« je ne le fais pas » ( L.25), « Je ne l'ai pas fait »(L.26).",
+                "int": "Souligne l'échec de cette tentative de crier et de se libérer."
+            },
+            {
+                "proc": "Changement de temps : présent =\> passé composé",
+                "cit": "« je ne le fais pas » ( L.25)/ « Je ne l'ai pas fait »(L.26).",
+                "int": "Passé composé exprime action achevée, donc échec du cri est définitif."
+            }
+        ]
     }
 }
 
