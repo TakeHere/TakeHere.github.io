@@ -627,18 +627,13 @@ const texts = {
                 "int": "Louis raconte anecdote du passé, située avant son départ de la famille."
             },
             {
-                "proc": "Verbes au présent de narration",
-                "cit": "« c'est l'été, c'est pendant ces années où je suis absent » (l. 7)",
-                "int": "Permet au lecteur de vivre cet instant."
-            },
-            {
                 "proc": "Polysémie :- fin du récit- fin de vie",
                 "cit": "« j'en aurai fini » (l. 6)",
                 "int": "Désigne fin du récit et fin de vie de Louis, contribue au registre tragique."
             },
             {
-                "proc": "Compléments circonstanciels de lieux et de temps précis",
-                "cit": "« l'été, dans le Sud de la France, pendant ces années où je suis absent » (L 7-8)",
+                "proc": "Verbes au présent de narration + compléments circonstanciels de lieux et de temps précis",
+                "cit": "« c’est l’été, c’est pendant ces années où je suis absent, c’est dans le Sud de la France. » (l.7-8)",
                 "int": "Permet au lecteur de vivre cet instant."
             },
             {
