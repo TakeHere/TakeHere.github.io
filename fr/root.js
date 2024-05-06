@@ -632,7 +632,7 @@ const texts = {
                 "int": "Contribue au registre tragique."
             },
             {
-                "proc": "Verbes au présent de narration + compléments circonstanciels de lieux et de temps précis",
+                "proc": "Compléments circonstanciels de lieux et de temps précis + Verbes au présent de narration",
                 "cit": "« c’est l’été, c’est pendant ces années où je suis absent, c’est dans le Sud de la France. » (l.7-8)",
                 "int": "Permet au lecteur de vivre cet instant."
             },
