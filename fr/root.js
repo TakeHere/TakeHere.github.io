@@ -629,7 +629,7 @@ const texts = {
             {
                 "proc": "Polysémie :- fin du récit- fin de vie",
                 "cit": "« j'en aurai fini » (l. 6)",
-                "int": "Désigne fin du récit et fin de vie de Louis, contribue au registre tragique."
+                "int": "Contribue au registre tragique."
             },
             {
                 "proc": "Verbes au présent de narration + compléments circonstanciels de lieux et de temps précis",
