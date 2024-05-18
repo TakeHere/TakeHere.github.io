@@ -692,7 +692,122 @@ const texts = {
                 "int": "Passé composé exprime action achevée, donc échec du cri est définitif."
             }
         ]
+    },"LL8 Phèdre Tirade": {
+        "color": "#a5fad2",
+        "texts": [
+            {
+                "proc": "Négation forte « non », mis en valeur car en début de vers.",
+                "cit": "« Non, Thésée, il faut rompre un injuste silence » (v 1)",
+                "int": "Détermination de Phèdre à rétablir la vérité"
+            },
+            {
+                "proc": "Répétition de « il faut »",
+                "cit": "« il faut » (v.1) « il faut » (v.2)",
+                "int": "Aveu associé à l'idée de devoir"
+            },
+            {
+                "proc": "Champ lexical de la justice",
+                "cit": "« injuste » (v 1) « innocence » (v.2) « coupable » (v 3)",
+                "int": "Aveu = moyen de résoudre la crise familiale"
+            },
+            {
+                "proc": "Deux phrases exclamatives",
+                "cit": "« Ah père infortuné ! » (v.3) « Et c'est sur votre foi que je l'ai condamné ! » (v 4)",
+                "int": "Donne tonalité pathétique car exprime sa souffrance et sa colère."
+            },
+            {
+                "proc": "Une épithète mise en valeur car fin de vers",
+                "cit": "« Père infortuné » (v 3)",
+                "int": "Thésée est un personnage tragique car impuissant face au destin"
+            },
+            {
+                "proc": "Points de suspension qui interrompent la parole",
+                "cit": "« Cruelle, pensez-vous être assez excusée… » (v 5)",
+                "int": "Suggère détermination de Phèdre à s'expliquer"
+            },
+            {
+                "proc": "Périphrase pour désigner la mort",
+                "cit": "« les moments me sont chers » (v6)",
+                "int": "Le temps est précieux car la mort est proche"
+            },
+            {
+                "proc": "2x propositions juxtaposées :1ère : cause, 2ème : conséquence",
+                "cit": "« les moments me sont chers, écoutez-moi, Thésée » (v6)",
+                "int": "Le rythme s'accélère car la tension monte"
+            },
+            {
+                "proc": "impératif",
+                "cit": "« écoutez-moi, Thésée » (v6)",
+                "int": "Impératif exprime prière, montre urgence de la situation"
+            },
+            {
+                "proc": "Forme emphatique (c'est…qui)",
+                "cit": "« C'est moi qui » (v 7)",
+                "int": "Phèdre insiste sur sa culpabilité"
+            },
+            {
+                "proc": "Opposition de 2 périphrases : Lexique mélioratif désigne Hippolyte Lexique péjoratif désigne Phèdre",
+                "cit": "« ce fils, chaste et respectueux, (v 7) », « Osai jeter un œil profane, incestueux. » (v 8)",
+                "int": "Elle innocente Hippolyte et elle s'accuse. Donne donc image d'une héroïne car elle se remet en question."
+            },
+            {
+                "proc": "mots opposés mis à la rime",
+                "cit": "« respectueux » (v 7) « incestueux » (v 8)",
+                "int": "Elle innocente Hippolyte et elle s'accuse."
+            },
+            {
+                "proc": "Le ciel est Sujet du verbe « mettre »",
+                "cit": "« Le ciel mit dans mon sein » (v 9)",
+                "int": "Phèdre subit une punition divine tel un héros de tragédie. Elle est donc impuissante."
+            },
+            {
+                "proc": "2 périphrases péjoratives pour désigner l'amour + métaphores du feu",
+                "cit": "« une flamme funeste » (v 9) « un feu qui lui faisait horreur » (v 12)",
+                "int": "Cette passion amoureuse mène à la mort. Suggère la violence de la passion amoureuse qui détruit."
+            },
+            {
+                "proc": "Adj « détestable » sujet du vb d'action « a conduit » + nom péjoratif « la perfide »",
+                "cit": "« La détestable Œnone a conduit tout le reste. » (v 10) « La perfide, abusant de ma faiblesse extrême, (v 13)",
+                "int": "Œnone devient l'incarnation de la trahison"
+            },
+            {
+                "proc": "Champ lexical du châtiment + hyperbole",
+                "cit": "« Elle s'en est punie, et fuyant mon courroux, A cherché dans les flots un supplice trop doux. » (v 15, 16)",
+                "int": "Le châtiment a pour but d'inspirer la crainte du spectateur."
+            },
+            {
+                "proc": "Phèdre est sujet du verbe « vouloir », mis en valeur au début du vers.",
+                "cit": "« J'ai voulu, devant vous exposant mes remords » (v 19)",
+                "int": "Phèdre affirme sa détermination, elle est courageuse tel une héroïne"
+            },
+            {
+                "proc": "Périphrase qui évoque la mort + adjectif « lent »",
+                "cit": "« Par un chemin plus lent descendre chez les morts. » (v 20)",
+                "int": "Rythme ralenti qui imite l'agonie"
+            },
+            {
+                "proc": "Anaphore de l'adverbe « déjà »",
+                "cit": "« Déjà […] » (v 23) « Déjà […] » (v 25)",
+                "int": "Anaphore montre que l'agonie trouble son langage"
+            },
+            {
+                "proc": "Description détaillée des effets du poison",
+                "cit": "« Déjà jusqu'à mon cœur […] qu'à travers un nuage » (v 23-25)",
+                "int": "Accentue la violence du châtiment"
+            },
+            {
+                "proc": "Expressions qui renvoient à la perte de la vue",
+                "cit": "« Je ne vois plus » (v.25), « à mes yeux dérobant la clarté » (v.27)",
+                "int": "Symbolise la mort"
+            },
+            {
+                "proc": "Mots symboliques mis à la rime",
+                "cit": "« clarté » (v.27) et « pureté » (v.28)",
+                "int": "L'aveu de Phèdre permet donc de résoudre la crise car lumière symbolise vérité révélée"
+            }
+        ]
     }
+
 }
 
 let currentTextDeck = {}
