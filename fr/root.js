@@ -697,7 +697,7 @@ const texts = {
         "texts": [
             {
                 "proc": "Négation forte « non », mis en valeur car en début de vers.",
-                "cit": "« Non, Thésée, il faut rompre un injuste silence » (v 1)",
+                "cit": "« Non » ( v 1)",
                 "int": "Détermination de Phèdre à rétablir la vérité"
             },
             {
@@ -767,12 +767,12 @@ const texts = {
             },
             {
                 "proc": "Adj « détestable » sujet du vb d'action « a conduit » + nom péjoratif « la perfide »",
-                "cit": "« La détestable Œnone a conduit tout le reste. » (v 10) « La perfide, abusant de ma faiblesse extrême, (v 13)",
+                "cit": "« La détestable Œnone a conduit tout le reste. » (v 10) « La perfide » (v 13)",
                 "int": "Œnone devient l'incarnation de la trahison"
             },
             {
-                "proc": "Champ lexical du châtiment + hyperbole",
-                "cit": "« Elle s'en est punie, et fuyant mon courroux, A cherché dans les flots un supplice trop doux. » (v 15, 16)",
+                "proc": "Vocabulaire du châtiment + hyperbole",
+                "cit": "« punie, » « supplice » + « trop doux. » (v 15,16)",
                 "int": "Le châtiment a pour but d'inspirer la crainte du spectateur."
             },
             {
