@@ -751,7 +751,7 @@ const texts = {
                 "int": "Elle innocente Hippolyte et elle s'accuse. Donne donc image d'une héroïne car elle se remet en question."
             },
             {
-                "proc": "mots opposés mis à la rime",
+                "proc": "Antithèse mis à la rime",
                 "cit": "« respectueux » (v 7) « incestueux » (v 8)",
                 "int": "Elle innocente Hippolyte et elle s'accuse."
             },
