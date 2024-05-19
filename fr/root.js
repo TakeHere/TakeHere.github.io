@@ -698,12 +698,12 @@ const texts = {
             {
                 "proc": "Négation forte « non », mis en valeur car en début de vers.",
                 "cit": "« Non » ( v 1)",
-                "int": "Détermination de Phèdre à rétablir la vérité"
+                "int": "Traduis détermination de Phèdre à rétablir la vérité"
             },
             {
                 "proc": "Répétition de « il faut »",
                 "cit": "« il faut » (v.1) « il faut » (v.2)",
-                "int": "Aveu associé à l'idée de devoir"
+                "int": "Aveu associé à l'idée du devoir"
             },
             {
                 "proc": "Champ lexical de la justice",
@@ -731,14 +731,14 @@ const texts = {
                 "int": "Le temps est précieux car la mort est proche"
             },
             {
-                "proc": "2x propositions juxtaposées :1ère : cause, 2ème : conséquence",
-                "cit": "« les moments me sont chers, écoutez-moi, Thésée » (v6)",
-                "int": "Le rythme s'accélère car la tension monte"
-            },
-            {
                 "proc": "impératif",
                 "cit": "« écoutez-moi, Thésée » (v6)",
                 "int": "Impératif exprime prière, montre urgence de la situation"
+            },
+            {
+                "proc": "2x propositions juxtaposées :1ère : cause, 2ème : conséquence",
+                "cit": "« les moments me sont chers, écoutez-moi, Thésée » (v6)",
+                "int": "Le rythme s'accélère car la tension monte"
             },
             {
                 "proc": "Forme emphatique (c'est…qui)",
