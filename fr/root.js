@@ -766,7 +766,7 @@ const texts = {
                 "int": "Cette passion amoureuse mène à la mort. Suggère la violence de la passion amoureuse qui détruit."
             },
             {
-                "proc": "Adj « détestable » sujet du vb d'action « a conduit » + nom péjoratif « la perfide »",
+                "proc": "2 adjectifs péjoratifs + « Œnone » est le sujet du verbe d'action « conduit »",
                 "cit": "« La détestable Œnone a conduit tout le reste. » (v 10) « La perfide » (v 13)",
                 "int": "Œnone devient l'incarnation de la trahison"
             },
