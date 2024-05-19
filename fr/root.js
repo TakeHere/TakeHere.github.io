@@ -728,7 +728,7 @@ const texts = {
             {
                 "proc": "Périphrase pour désigner la mort",
                 "cit": "« les moments me sont chers » (v6)",
-                "int": "Le temps est précieux car la mort est proche"
+                "int": "Le temps est précieux car la mort approche"
             },
             {
                 "proc": "impératif",
@@ -738,7 +738,7 @@ const texts = {
             {
                 "proc": "2x propositions juxtaposées :1ère : cause, 2ème : conséquence",
                 "cit": "« les moments me sont chers, écoutez-moi, Thésée » (v6)",
-                "int": "Le rythme s'accélère car la tension monte"
+                "int": "Le rythme s'accélère car la mort approche"
             },
             {
                 "proc": "Forme emphatique (c'est…qui)",
