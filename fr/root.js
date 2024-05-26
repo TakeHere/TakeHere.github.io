@@ -803,11 +803,119 @@ const texts = {
             {
                 "proc": "Mots symboliques mis à la rime",
                 "cit": "« clarté » (v.27) et « pureté » (v.28)",
-                "int": "L'aveu de Phèdre permet donc de résoudre la crise car lumière symbolise vérité révélée"
+                "int": "L'aveu de Phèdre permet donc de résoudre la crise familale et personelle car lumière symbolise vérité révélée"
+            }
+        ]
+    },"LL9 Arrias": {
+        "color": "#e35d5b",
+        "texts": [
+            {
+                "proc": "Succession de 2 hyperboles",
+                "cit": "« Arrias a tout lu, a tout vu » (l.1)",
+                "int": "Registre satirique : critique l'excès, contraire à l'idéal de l'honnête homme."
+            },
+            {
+                "proc": "Adj « universel »",
+                "cit": "« c'est un homme universel » (L 2)",
+                "int": "Arrias présenté comme omniscient, contraire à l'idéal de l'honnête homme : cultivé mais pas prétentieux."
+            },
+            {
+                "proc": "Champ lexical de la tromperie",
+                "cit": "« persuader », « mentir », « paraître » (L 1,2)",
+                "int": "Dénonce hypocrisie d'Arrias."
+            },
+            {
+                "proc": "Comparatif de supériorité (mieux…que)",
+                "cit": "« Il aime mieux mentir que de se taire ou de paraître ignorer quelque chose » ( L 2,3)",
+                "int": "Donne une image péjorative d'Arrias car il préfère le vice, mentir."
+            },
+            {
+                "proc": "Complément circonstanciel de lieu",
+                "cit": "« à la table d'un grand d'une cour du Nord » (L 3)",
+                "int": "Scène de repas, qui va illustrer le portrait général d'Arrias."
+            },
+            {
+                "proc": "Remplacement rapide du sujet du verbe de parole : on (invités) => il (Arrias)",
+                "cit": "« on parle à la table d'un grand d'une cour du Nord : il prend la parole » ( L 3 )",
+                "int": "Fin de l'échange entre les invités et début du monologue d'Arrias."
+            },
+            {
+                "proc": "Nombreuses anaphores : pronom perso « il » sujet de verbes de parole",
+                "cit": "« il prend la parole », « il discourt des mœurs », « il récite des historiettes (L 3 à 6)",
+                "int": "Arrias se met en avant en monopolisant la parole. Il est donc narcissique."
+            },
+            {
+                "proc": "Comparatif",
+                "cit": "« il s'oriente dans cette région lointaine comme s'il en était originaire » ( L 5)",
+                "int": "Mensonge."
+            },
+            {
+                "proc": "Complément circonstanciel de manière",
+                "cit": "« Il en rit le premier jusqu'à éclater » (L 7)",
+                "int": "Arrias est dans l'excès, contraire à l'idéal de l'honnête homme."
+            },
+            {
+                "proc": "Verbe « contredire »",
+                "cit": "« contredire » ( L 7)",
+                "int": "Opposition entre 1 invité et Arrias."
+            },
+            {
+                "proc": "Vocabulaire de la démonstration",
+                "cit": "« lui prouvant nettement » (l 8)",
+                "int": "Accentue opposition entre les 2 perso : l'invité incarne la vérité rigoureuse et Arrias le mensonge."
+            },
+            {
+                "proc": "La métaphore « prend feu »",
+                "cit": "« Arrias ne se trouble point, prend feu au contraire » (L 9)",
+                "int": "Réaction excessive contraire à l'idéal de l'honnête homme."
+            },
+            {
+                "proc": "Long discours direct",
+                "cit": "« Je n'avance, lui dit-il, […..] qui ne m'a caché aucune circonstance » (L 9 à 13)",
+                "int": "La longueur du discours avoir le dernier mot."
+            },
+            {
+                "proc": "Argument d'autorité (j'ai bon car c une personnalité qui me l'as dit)",
+                "cit": "« je l'ai appris de Sethon » (L 10)",
+                "int": "Arrias souhaite donner l'impression que ce qu'il dit s'appuie sur une source fiable."
+            },
+            {
+                "proc": "Apposition qui précise le nom « Sethon »",
+                "cit": "« Sethon, ambassadeur de France dans cette cour, » (L 10)",
+                "int": "Accentue l'importance du personnage cité."
+            },
+            {
+                "proc": "3 PSR pour qualifier Sethon",
+                "cit": "« que je connais familièrement, que j'ai fort interrogé, et qui ne m'a caché aucune circonstance »(L 9 à 13)",
+                "int": "Présenté comme un proche donc accentue orgueil d'Arrias."
+            },
+            {
+                "proc": "Nom « narration » = fiction",
+                "cit": "« Il reprenait le fil de sa narration » (L 13)",
+                "int": "Ironie du narrateur car terme « narration » rappelle qu'Arrias est un menteur."
+            },
+            {
+                "proc": "Comparatif de supériorité",
+                "cit": "« avec plus de confiance qu'il ne l'avait commencée » (L13)",
+                "int": "Arrias croit avoir remporté la dispute."
+            },
+            {
+                "proc": "Périphrase",
+                "cit": "« lorsque l'un des conviés » (L 14)",
+                "int": "Retarde révélation de l'identité."
+            },
+            {
+                "proc": "Discours direct pour révéler identité du convive",
+                "cit": "lui dit : « C'est Sethon à qui vous parlez, lui-même, et qui arrive de son ambassade. » (L 14,15)",
+                "int": "Accentue la chute + ridiculise davantage Arrias."
+            },
+            {
+                "proc": "Expression",
+                "cit": "« lui-même » ( L15)",
+                "int": "Ridiculise davantage Arrias."
             }
         ]
     }
-
 }
 
 let currentTextDeck = {}
