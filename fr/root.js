@@ -812,7 +812,7 @@ const texts = {
             {
                 "proc": "Succession de 2 hyperboles",
                 "cit": "« Arrias a tout lu, a tout vu » (l.1)",
-                "int": "Registre satirique : critique l'excès, contraire à l'idéal de l'honnête homme."
+                "int": "Registre satirique car critique l'excès, contraire à l'idéal de l'honnête homme."
             },
             {
                 "proc": "Adj « universel »",
