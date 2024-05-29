@@ -817,7 +817,7 @@ const texts = {
             {
                 "proc": "Adj « universel »",
                 "cit": "« c'est un homme universel » (L 2)",
-                "int": "Arrias présenté comme omniscient, contraire à l'idéal de l'honnête homme : cultivé mais pas prétentieux."
+                "int": "Arrias présenté comme omniscient, contraire à l'idéal de l'honnête homme qui doit être cultivé mais pas prétentieux."
             },
             {
                 "proc": "Champ lexical de la tromperie",
@@ -872,7 +872,7 @@ const texts = {
             {
                 "proc": "Long discours direct",
                 "cit": "« Je n'avance, lui dit-il, […..] qui ne m'a caché aucune circonstance » (L 9 à 13)",
-                "int": "La longueur du discours avoir le dernier mot."
+                "int": "La longueur du discours montre qu’il veut avoir le dernier mot"
             },
             {
                 "proc": "Argument d'autorité (j'ai bon car c une personnalité qui me l'as dit)",
