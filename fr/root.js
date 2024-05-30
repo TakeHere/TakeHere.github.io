@@ -877,7 +877,7 @@ const texts = {
             {
                 "proc": "Argument d'autorité (j'ai bon car c une personnalité qui me l'as dit)",
                 "cit": "« je l'ai appris de Sethon » (L 10)",
-                "int": "Arrias souhaite donner l'impression que ce qu'il dit s'appuie sur une source fiable."
+                "int": "Arrias souhaite montrer qu'il tiens ses informations d'une source fiable"
             },
             {
                 "proc": "Apposition qui précise le nom « Sethon »",
@@ -887,7 +887,7 @@ const texts = {
             {
                 "proc": "3 PSR pour qualifier Sethon",
                 "cit": "« que je connais familièrement, que j'ai fort interrogé, et qui ne m'a caché aucune circonstance »(L 9 à 13)",
-                "int": "Présenté comme un proche donc accentue orgueil d'Arrias."
+                "int": "Sethon est présenté comme un proche donc accentue orgueil d'Arrias."
             },
             {
                 "proc": "Nom « narration » = fiction",
