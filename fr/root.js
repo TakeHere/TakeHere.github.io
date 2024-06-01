@@ -915,6 +915,111 @@ const texts = {
                 "int": "Ridiculise davantage Arrias."
             }
         ]
+    }, "LL10 Des biens de fortune": {
+        "color": "#de62d1",
+        "texts": [
+            {
+                "proc": "2 verbes d’action au présent",
+                "cit": "« L’on ouvre et l’on étale ». (L.1)",
+                "int": "Actions qui renvoient au commerce. Le type de marchandise n’est pas évoqué car c’est le geste qui est important"
+            },
+            {
+                "proc": "Compléments circonstanciels de temps",
+                "cit": "« tous les matins » « le soir » « tout le jour » (L.1 et 2)",
+                "int": "Insistent sur la répétition de ces actions."
+            },
+            {
+                "proc": "Répétition du verbe « tromper »",
+                "cit": "« Pour tromper son mode ; et l'on ferme le soit après avoir trompé tout le jour. » (L.1-2)",
+                "int": "Image péjorative du commerce car associé au mensonge."
+            },
+            {
+                "proc": "Déterminant défini à valeur de généralisation",
+                "cit": "« Le marchand » (L.3)",
+                "int": "Portrait anonyme de cette catégorie professionnelle pour généraliser."
+            },
+            {
+                "proc": "Enumération de propositions",
+                "cit": "« Le marchand fait des montres […..] or qui soit de poids. (L.3 à 8)",
+                "int": "Évoque les nombreuses pratiques trompeuses du marchand donnant donc une image péjorative."
+            },
+            {
+                "proc": "Champ lexical du mensonge",
+                "cit": "« cacher » « paraisse » « surfait », « fausses » (l.4-5)",
+                "int": "Insiste sur les méthodes de vente trompeuses caractérisées par la dissimulation."
+            },
+            {
+                "proc": "GN au pluriel",
+                "cit": "« toutes les conditions » (L.9), « les gens » (L.15), « les hommes » (L.16)",
+                "int": "La recherche du profit par tous les moyens ne concerne plus une seule profession."
+            },
+            {
+                "proc": "Antithèses",
+                "cit": "« Le pauvre » (L.9), « L'opulent » (L.10)",
+                "int": "Opposition de 2 catégories d'hommes : celle qui possède de l'argent et celle qui n'en possède pas."
+            },
+            {
+                "proc": "Deux propositions pour qualifier chaque catégorie",
+                "cit": "« Le Pauvre est bien proche de l'homme de bien » (L.9)« L'opulent n'est guère éloigné de la friponnerie » (L.10).",
+                "int": "Confirme que l'enrichissement et la tromperie sont liés."
+            },
+            {
+                "proc": "Association surprenante de 2 mots : Ostentation est péjoratif car connote l'excès, Probité est mélioratif car connote l'honnêteté",
+                "cit": "« L'ostentation d'une certaine probité » (L.13)",
+                "int": "Montre que l'hypocrisie est un autre moyen utilisé pour s'enrichir."
+            },
+            {
+                "proc": "Superlatifs de supériorité",
+                "cit": "« le plus court et le meilleur » (L.14)",
+                "int": "Valorise cette 3è stratégie."
+            },
+            {
+                "proc": "Termes péjoratifs qui évoquent les moyens de s'enrichir",
+                "cit": "« profanes », « professions équivoques », « péril » (L.17,18)",
+                "int": "Ces méthodes d'enrichissement sont présentées comme suspectes ou condamnables."
+            },
+            {
+                "proc": "Négation restrictive ne …que + Complément circonstanciel de temps",
+                "cit": "« après qu'ils ont fait leur récolte »",
+                "int": "« Ils les quittent ensuite par une dévotion discrète, qui ne leur vient jamais qu'après qu'ils ont fait leur récolte » (L.19,20)",
+                "int": "Registre satirique car c'est seulement après s'être enrichis malhonnêtement qu'ils affichent une attitude faussement pieuse et respectable."
+            },
+            {
+                "proc": "Plusieurs propositions juxtaposées",
+                "cit": "« Il y a des misères sur la terre qui saisissent le cœur ; il manque à quelques-uns jusqu'aux aliments ; ils redoutent l'hiver, ils appréhendent de vivre. » (L.21,22)",
+                "int": "Registre pathétique car on insiste sur la privation et les difficultés rencontrées."
+            },
+            {
+                "proc": "Adverbe « ailleurs »",
+                "cit": "« L'on mange ailleurs des fruits précoces »",
+                "int": "Renforce opposition entre les classes sociales (pauvres affamés /riches bourgeois qui mangent des aliments rares)."
+            },
+            {
+                "proc": "Hyperbole péjorative",
+                "cit": "« Ont eu l'audace d'avaler en un seul morceau la nourriture de cent familles » (L.24,25).",
+                "int": "Assimile les riches à des ogres."
+            },
+            {
+                "proc": "Antithèse",
+                "cit": "« 1 seul » « cent » (L.24,25).",
+                "int": "Traduit l'indignation du moraliste."
+            },
+            {
+                "proc": "Pronom personnel « je »",
+                "cit": "« je ne veux être » ( L.26).",
+                "int": "Implication personnelle de La Bruyère."
+            },
+            {
+                "proc": "Antithèse",
+                "cit": "« ni malheureux ni heureux » (l. 28)",
+                "int": "Valorise la modération, qualité renvoyant à l'idéal de l'honnête homme."
+            },
+            {
+                "proc": "Terme « médiocrité », ici mélioratif (= juste milieu)",
+                "cit": "« je me réfugie dans la médiocrité »(L.27)",
+                "int": "Le moraliste donne son avis, et valorise une caractéristique de l'idéal de l'honnête homme."
+            }
+        ]
     }
 }
 
