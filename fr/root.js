@@ -936,7 +936,7 @@ const texts = {
             {
                 "proc": "Déterminant défini à valeur de généralisation",
                 "cit": "« Le marchand » (L.3)",
-                "int": "Portrait anonyme de cette catégorie professionnelle pour généraliser."
+                "int": "Portrait anonyme de cette profession pour généraliser."
             },
             {
                 "proc": "Enumération de propositions",
