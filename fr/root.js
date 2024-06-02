@@ -930,7 +930,7 @@ const texts = {
             },
             {
                 "proc": "Répétition du verbe « tromper »",
-                "cit": "« Pour tromper son mode ; et l'on ferme le soit après avoir trompé tout le jour. » (L.1-2)",
+                "cit": "« Pour tromper son mode ; et l'on ferme le soir après avoir trompé tout le jour. » (L.1-2)",
                 "int": "Image péjorative du commerce car associé au mensonge."
             },
             {
@@ -941,7 +941,7 @@ const texts = {
             {
                 "proc": "Enumération de propositions",
                 "cit": "« Le marchand fait des montres […..] or qui soit de poids. (L.3 à 8)",
-                "int": "Évoque les nombreuses pratiques trompeuses du marchand donnant donc une image péjorative."
+                "int": "Évoque les méthodes de vente trompeuses, donne donc une image péjorative."
             },
             {
                 "proc": "Champ lexical du mensonge",
