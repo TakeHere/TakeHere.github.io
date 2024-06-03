@@ -980,8 +980,7 @@ const texts = {
             },
             {
                 "proc": "Négation restrictive ne …que + Complément circonstanciel de temps",
-                "cit": "« après qu'ils ont fait leur récolte »",
-                "int": "« Ils les quittent ensuite par une dévotion discrète, qui ne leur vient jamais qu'après qu'ils ont fait leur récolte » (L.19,20)",
+                "cit": "« Ils les quittent ensuite par une dévotion discrète, qui ne leur vient jamais qu'après qu'ils ont fait leur récolte » (L.19,20)",
                 "int": "Registre satirique car c'est seulement après s'être enrichis malhonnêtement qu'ils affichent une attitude faussement pieuse et respectable."
             },
             {
