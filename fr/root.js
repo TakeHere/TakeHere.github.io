@@ -930,7 +930,7 @@ const texts = {
             },
             {
                 "proc": "Répétition du verbe « tromper »",
-                "cit": "« Pour tromper son mode ; et l'on ferme le soir après avoir trompé tout le jour. » (L.1-2)",
+                "cit": "« tromper », « tromper » (l.1-2)",
                 "int": "Image péjorative du commerce car associé au mensonge."
             },
             {
@@ -974,7 +974,7 @@ const texts = {
                 "int": "Valorise cette 3è stratégie."
             },
             {
-                "proc": "Termes péjoratifs qui évoquent les moyens de s'enrichir",
+                "proc": "Termes péjoratifs qui évoquent les méthodes d’enrichissement",
                 "cit": "« profanes », « professions équivoques », « péril » (L.17,18)",
                 "int": "Ces méthodes d'enrichissement sont présentées comme suspectes ou condamnables."
             },
