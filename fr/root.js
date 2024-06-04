@@ -996,7 +996,7 @@ const texts = {
             {
                 "proc": "Hyperbole péjorative",
                 "cit": "« Ont eu l'audace d'avaler en un seul morceau la nourriture de cent familles » (L.24,25).",
-                "int": "Assimile les riches à des ogres."
+                "int": "Compare les riches avec des ogres"
             },
             {
                 "proc": "Antithèse",
