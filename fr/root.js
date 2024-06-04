@@ -1009,7 +1009,7 @@ const texts = {
                 "int": "Implication personnelle de La Bruyère."
             },
             {
-                "proc": "Antithèse",
+                "proc": "Négation + Antithèse",
                 "cit": "« ni malheureux ni heureux » (l. 28)",
                 "int": "Valorise la modération, qualité renvoyant à l'idéal de l'honnête homme."
             },
