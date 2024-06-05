@@ -1019,6 +1019,115 @@ const texts = {
                 "int": "Le moraliste donne son avis, et valorise une caractéristique de l'idéal de l'honnête homme."
             }
         ]
+    }, "LL11 Du souverain et de la République": {
+        "color": "#a17ee6",
+        "texts": [
+            {
+                "proc": "Pronom pers « vous »",
+                "cit": "« vous voyez » (L1)",
+                "int": "La Bruyère implique le lecteur pour mieux transmettre ses idées."
+            },
+            {
+                "proc": "Champ lexical qui renvoie à un univers bucolique",
+                "cit": "« troupeau » (L.1)« prairie une herbemenue et tendre qui a échappé à la faux du moissonneur, le berger » (L 3 à 4)",
+                "int": "Cadre et personnages qui rappellent les caractéristiques de la pastorale."
+            },
+            {
+                "proc": "Lexique mélioratif pour qualifier le cadre naturel",
+                "cit": "« beau jour » (L 2), « tranquillement » (L 2) « tendre » (L3)",
+                "int": "Rappellent les valeurs de la pastorale : cadre paisible, agréable."
+            },
+            {
+                "proc": "Adjectifs pour qualifier le berger",
+                "cit": "« le berger, soigneux et attentif, » (L 4, 5)",
+                "int": "Image d'un berger aimant et très proche de son troupeau."
+            },
+            {
+                "proc": "Accumulation de verbes d'action :« le berger » est sujet et « le troupeau » est COD",
+                "cit": "« Il ne les perd pas de vue, il les suit, il les conduit […] il les nourrit, il les défend » (L 5 à7)",
+                "int": "Dévouement du berger pour son troupeau."
+            },
+            {
+                "proc": "Compléments circonstanciels de temps",
+                "cit": "« L'aurore le trouve déjà en plaine campagne, d'où il ne se retire qu'avec le soleil »",
+                "int": "Dévouement constant."
+            },
+            {
+                "proc": "Parallélisme de construction (Si exprimant une condition + événement menaçant + verbe d'action)",
+                "cit": "« Si elles se dispersent, il les rassemble ; si un loup avide paraît, il lâche son chien » (L 6,7)",
+                "int": "Berger et troupeau sont très liés."
+            },
+            {
+                "proc": "3 exclamatives",
+                "cit": "Quels soins ! Quelle vigilance ! Quelle servitude ! (L.9)",
+                "int": "Admiration du moraliste pour la fidélité du berger."
+            },
+            {
+                "proc": "Gradation",
+                "cit": "Quels soins ! Quelle vigilance ! Quelle servitude ! (L.9)",
+                "int": "Accentue le dévouement du berger."
+            },
+            {
+                "proc": "2 questions rhétoriques",
+                "cit": "« quelle condition vous paraît la plus délicieuse et la plus libre, ou du berger ou des brebis ? le troupeau est-il fait pour le berger, ou le berger pour le troupeau ? (L 9 à 11) »",
+                "int": "Permet d'influencer le lecteur."
+            },
+            {
+                "proc": "Métaphore avec le terme « image »",
+                "cit": "« Image naïve des peuples et du prince qui les gouverne, s'il est bon prince. » (L 11, 12)",
+                "int": "Permet au lecteur de comprendre les rapprochements : troupeau = peuple et berger = prince qui les gouverne. La Bruyère détourne donc le genre de la pastorale pour faire l'éloge d'un modèle de prince proche de son peuple."
+            },
+            {
+                "proc": "Champ lexical du luxe",
+                "cit": "« Le faste et le luxe » et « pierreries » (L 13 à 15)",
+                "int": "Symbolise l'autre modèle de gouvernement : personnage superficiel, attaché aux apparences."
+            },
+            {
+                "proc": "Répétition 4 x du GN « d'or »",
+                "cit": "« d'or » (L 13 à 15)",
+                "int": "Berger et son chien apparaissent ridicules, comme déguisés car ne correspond pas à l'image habituelle d'un berger."
+            },
+            {
+                "proc": "Métaphore du loup (comme au début du texte)",
+                "cit": "« les loups » (L 16)",
+                "int": "Représente les dangers qui guettent le peuple."
+            },
+            {
+                "proc": "Question rhétorique",
+                "cit": "« que sert tant d'or à son troupeau ou contre les loups ? » (L 16, 16)",
+                "int": "Dénonce ce type de roi superficiel, attaché aux biens matériels par opposition au roi/berger qui protège son peuple."
+            },
+            {
+                "proc": "2 phrases exclamatives",
+                "cit": "« Quelle heureuse place […] milliers d'hommes ! quel dangereux poste ­[…] un million d'hommes ! » (L 17 à 20)",
+                "int": "Admiration puis rejet du moraliste pour mieux persuader le lecteur."
+            },
+            {
+                "proc": "Antithèses",
+                "cit": "« faire du bien » (L.18) vs « nuire » (L.19) ET « heureuse place » vs « dangereux poste »",
+                "int": "Permet d'opposer deux modèles de roi."
+            },
+            {
+                "proc": "Déterminant indéfini",
+                "cit": "« un homme » (L 18, 19)",
+                "int": "Généralise son propos."
+            },
+            {
+                "proc": "GN au pluriel",
+                "cit": "« Les hommes » (L 21), « les rois » (L 23)",
+                "int": "Généralise davantage son propos."
+            },
+            {
+                "proc": "Champ lexical des sentiments",
+                "cit": "« joie » (L.21)« Sensible » (L.22), « aimés » (L.23), « le cœur de leurs peuples ? » (L 21 à 24)",
+                "int": "Rappelle l'idée défendue : le roi doit être protecteur et aimant avec ses sujets et non pas attaché à ce qui est superficiel afin de rendre son peuple joyeux."
+            },
+            {
+                "proc": "Terme « joie » accentué grâce à l'énumération de comparatifs de supériorité (plus…que)",
+                "cit": "« d'une joie plus naturelle, plus flatteuse et plus sensible, que de connaître qu'ils sont aimés » (L.21, 22)",
+                "int": "Invite à privilégier ce type de gouvernement car bénéfique."
+            }
+        ]
     }
 }
 
