@@ -1015,7 +1015,7 @@ const texts = {
             },
             {
                 "proc": "Terme « médiocrité », ici mélioratif (= juste milieu)",
-                "cit": "« je me réfugie dans la médiocrité »(L.27)",
+                "cit": "« je me jette et me réfugie dans la médiocrité » (L.27)",
                 "int": "Le moraliste donne son avis, et valorise une caractéristique de l'idéal de l'honnête homme."
             }
         ]
