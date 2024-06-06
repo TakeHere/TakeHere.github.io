@@ -1030,7 +1030,7 @@ const texts = {
             {
                 "proc": "Champ lexical qui renvoie à un univers bucolique",
                 "cit": "« troupeau » (L.1)« prairie une herbemenue et tendre qui a échappé à la faux du moissonneur, le berger » (L 3 à 4)",
-                "int": "Cadre et personnages qui rappellent les caractéristiques de la pastorale."
+                "int": "Cadre et personnages qui rappellent la pastorale."
             },
             {
                 "proc": "Lexique mélioratif pour qualifier le cadre naturel",
