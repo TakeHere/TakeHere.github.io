@@ -1064,7 +1064,7 @@ const texts = {
             },
             {
                 "proc": "Gradation",
-                "cit": "Quels soins ! Quelle vigilance ! Quelle servitude ! (L.9) ",
+                "cit": "Quels soins ! Quelle vigilance ! Quelle servitude ! (L.9).",
                 "int": "Accentue le dévouement du berger."
             },
             {
