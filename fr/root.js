@@ -1120,7 +1120,7 @@ const texts = {
             {
                 "proc": "Terme « joie » accentué grâce à l'énumération de comparatifs de supériorité (plus…que)",
                 "cit": "« d'une joie plus naturelle, plus flatteuse et plus sensible, que de connaître qu'ils sont aimés » (L.21, 22)",
-                "int": "Invite à privilégier ce type de gouvernement car bénéfique."
+                "int": "Invite à adhérer à ce modèle de gouvernement car bénéfique."
             },
             {
                 "proc": "Champ lexical des sentiments",
