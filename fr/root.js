@@ -1118,14 +1118,14 @@ const texts = {
                 "int": "Généralise davantage son propos."
             },
             {
-                "proc": "Champ lexical des sentiments",
-                "cit": "« joie » (L.21)« Sensible » (L.22), « aimés » (L.23), « le cœur de leurs peuples ? » (L 21 à 24)",
-                "int": "Rappelle l'idée défendue : le roi doit être protecteur et aimant avec ses sujets et non pas attaché à ce qui est superficiel afin de rendre son peuple joyeux."
-            },
-            {
                 "proc": "Terme « joie » accentué grâce à l'énumération de comparatifs de supériorité (plus…que)",
                 "cit": "« d'une joie plus naturelle, plus flatteuse et plus sensible, que de connaître qu'ils sont aimés » (L.21, 22)",
                 "int": "Invite à privilégier ce type de gouvernement car bénéfique."
+            },
+            {
+                "proc": "Champ lexical des sentiments",
+                "cit": "« joie » (L.21)« Sensible » (L.22), « aimés » (L.23), « le cœur de leurs peuples ? » (L 21 à 24)",
+                "int": "Rappelle l'idée défendue : le roi doit être protecteur et aimant avec ses sujets et non pas attaché à ce qui est superficiel afin de rendre son peuple joyeux."
             }
         ]
     }
