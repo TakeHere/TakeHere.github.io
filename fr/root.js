@@ -1100,7 +1100,7 @@ const texts = {
             {
                 "proc": "2 phrases exclamatives",
                 "cit": "« Quelle heureuse place […] milliers d'hommes ! quel dangereux poste ­[…] un million d'hommes ! » (L 17 à 20)",
-                "int": "Admiration puis rejet du moraliste pour mieux persuader le lecteur."
+                "int": "Admiration puis rejet par le moraliste pour mieux persuader le lecteur."
             },
             {
                 "proc": "Antithèses",
