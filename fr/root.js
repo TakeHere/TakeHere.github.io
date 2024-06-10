@@ -1128,6 +1128,120 @@ const texts = {
                 "int": "Rappelle l'idée défendue : le roi doit être protecteur et aimant avec ses sujets et non pas attaché à ce qui est superficiel afin de rendre son peuple joyeux."
             }
         ]
+    },"LL11 Venus": {
+        "color": "#7be86f",
+        "texts": [
+            {
+                "proc": "titre évocateur",
+                "cit": "« Vénus anadyomène » (V.1)",
+                "int": "Titre évoque la mythologie, qui valorise habituellement la déesse de la beauté, Vénus"
+            },
+            {
+                "proc": "Comparaison péjorative",
+                "cit": "« Comme d’un cercueil vert en fer-blanc » (v 1)",
+                "int": "Intrigue le lecteur car la naissance de Vénus est associée à la mort"
+            },
+            {
+                "proc": "Groupe nominal",
+                "cit": "« une tête »(v 1)",
+                "int": "Apparition de cette femme un peu effrayante car réduite à une tête."
+            },
+            {
+                "proc": "Terme péjoratif pour décrire les cheveux",
+                "cit": "« pommadés ». (V 2)",
+                "int": "Ses cheveux sont gras donc tonalité parodique (Vénus = habituellement beaux cheveux blonds)."
+            },
+            {
+                "proc": "Adverbe",
+                "cit": "« fortement » (V.2)",
+                "int": "Accentue cette image péjorative"
+            },
+            {
+                "proc": "Complément circonstanciel de lieu, mis en valeur car placé à la césure. + adjectif péjoratif",
+                "cit": "« d’une vieille baignoire » (v 3), « vieille » (V 3)",
+                "int": "Ton parodique car le coquillage habituellement associé à Vénus est remplacé par une vulgaire baignoire"
+            },
+            {
+                "proc": "L’adjectif mis à la rime",
+                "cit": "« bête » (v 3)",
+                "int": "Donne image péjorative car suggère qu’elle est n’est pas intelligente"
+            },
+            {
+                "proc": "Polysémie : Manque d’intelligence / Animal",
+                "cit": "« bête » (V3)",
+                "int": "Accentue l’image péjorative"
+            },
+            {
+                "proc": "Termes péjoratifs",
+                "cit": "« des déficits assez mal ravaudés » (V.4)",
+                "int": "Vénus a du mal à dissimuler sa laideur"
+            },
+            {
+                "proc": "4 adjectifs péjoratifs pour qualifier les parties du corps",
+                "cit": "« col gras et gris », « larges omoplates» (v 5), « dos court » (v 6)",
+                "int": "Ces parties sont disproportionnées"
+            },
+            {
+                "proc": "antithèse",
+                "cit": "« larges » (V5) et « court » (V6)",
+                "int": "Insiste sur la difformité du corps"
+            },
+            {
+                "proc": "3 PSR",
+                "cit": "« Qui saillent », « qui rentre et qui ressort » (v 6).",
+                "int": "Suggèrent le mouvement peu gracieux de Vénus donc accentuent la laideur de Vénus."
+            },
+            {
+                "proc": "champ lexical de l’embonpoint",
+                "cit": "« rondeurs », « graisse » (v 7 et 8)",
+                "int": "Rend ce dos répugnant."
+            },
+            {
+                "proc": "Terme employé pour les animaux",
+                "cit": "« l’échine » (V.9)",
+                "int": "Animalise péjorativement Vénus. Rappelle le mot « bête »"
+            },
+            {
+                "proc": "Voc des sensations : vue, odorat, goût",
+                "cit": "« L’échine est un peu rouge, et le tout sent un goût » (v 9)",
+                "int": "Confusion des sensations pour créer le dégoût du lecteur."
+            },
+            {
+                "proc": "Rejet de l’adj",
+                "cit": "« Horrible » (v 10)",
+                "int": "Place en tête de vers pour accentuer la laideur de Vénus."
+            },
+            {
+                "proc": "Périphrase",
+                "cit": "« deux mots gravés » (V.12)",
+                "int": "Révèle que Vénus est en réalité une prostituée car seules les prostituées avaient des tatouages à cette époque. Confirme donc le ton parodique."
+            },
+            {
+                "proc": "Antiphrase : Clara signifie en latin brillante",
+                "cit": "« CLARA VÉNUS » (v.12)",
+                "int": "Témoigne de l’ironie car la Vénus de Rimbaud est tout sauf brillante."
+            },
+            {
+                "proc": "Périphrase pour désigner cette femme",
+                "cit": "« ce corps »",
+                "int": "Déshumanisation de Vénus qui est réduite à n’être qu’un corps."
+            },
+            {
+                "proc": "Nom",
+                "cit": "« croupe »",
+                "int": "Animalise encore Vénus."
+            },
+            {
+                "proc": "Oxymore",
+                "cit": "« Belle hideusement » (v 14)",
+                "int": "Vénus est à la fois repoussante et fascinante (belle et laide)."
+            },
+            {
+                "proc": "La rime finale entre « Vénus », symbole d’amour et de beauté, et « anus », appartenant au vocabulaire scatologique",
+                "cit": "« Vénus », « anus »",
+                "int": "Suggère l’audace de Rimbaud, accentue le ton parodique."
+            }
+        ]
     }
 }
 
