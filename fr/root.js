@@ -1139,7 +1139,7 @@ const texts = {
             {
                 "proc": "Comparaison péjorative",
                 "cit": "« Comme d’un cercueil vert en fer-blanc » (v 1)",
-                "int": "Intrigue le lecteur car la naissance de Vénus est associée à la mort"
+                "int": "Surprenant car la naissance de Vénus est associée à la mort"
             },
             {
                 "proc": "Groupe nominal",
