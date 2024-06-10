@@ -1128,7 +1128,7 @@ const texts = {
                 "int": "Rappelle l'idée défendue : le roi doit être protecteur et aimant avec ses sujets et non pas attaché à ce qui est superficiel afin de rendre son peuple joyeux."
             }
         ]
-    },"LL11 Venus": {
+    },"LL12 Venus": {
         "color": "#7be86f",
         "texts": [
             {
