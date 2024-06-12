@@ -1193,7 +1193,7 @@ const texts = {
             },
             {
                 "proc": "champ lexical de l’embonpoint",
-                "cit": "« rondeurs », « graisse » (v 7 et 8)",
+                "cit": "« gras », « rondeurs », « graisse » (v 5, 7 et 8)",
                 "int": "Rend ce dos répugnant."
             },
             {
