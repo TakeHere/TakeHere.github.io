@@ -1242,7 +1242,121 @@ const texts = {
                 "int": "Suggère l’audace de Rimbaud, accentue le ton parodique."
             }
         ]
-    }
+    }, "LL13 Dormeur du val": {
+    "color": "#07fc03",
+    "texts": [
+        {
+            "proc": "Présentatifs",
+            "cit": "« C'est un trou » (V.1),      « C'est un petit val » (V.4)",
+            "int": "Le poème est descriptif."
+        },
+        {
+            "proc": "Champ lexical de la nature très présent",
+            "cit": "« verdure », « rivière » (V.1), « herbes »(V.2), « soleil », « montagne »(V.3)",
+            "int": "Cadre naturel agréable où la couleur verte domine."
+        },
+        {
+            "proc": "Champ lexical de la lumière",
+            "cit": "« le soleil » (V.3), « Luit » « des rayons » (V.4)",
+            "int": "La lumière est très présente donc cadre naturel agréable."
+        },
+        {
+            "proc": "Rejets de termes renvoyant à la lumière",
+            "cit": "« D'argent » (v.3), « Luit » (v. 4)",
+            "int": "Cela attire notre attention sur les éléments lumineux."
+        },
+        {
+            "proc": "Personnification de la nature",
+            "cit": "« chante une rivière »(V1), « montagne fière »(V.3)",
+            "int": "Rends la nature vivante + le chant de la rivière évoque la joie."
+        },
+        {
+            "proc": "participe présent",
+            "cit": "« accrochant » (V.2)",
+            "int": "Sert à évoquer une action en cours de déroulement. Insiste sur la vivacité et le mouvement de la nature."
+        },
+        {
+            "proc": "déterminant indéfini « un »",
+            "cit": "« un soldat »(V.5)",
+            "int": "Le poète ne nomme pas ce soldat, pour généraliser son destin."
+        },
+        {
+            "proc": "Adjectif placé après le nom, suivi d'une virgule qui permet une pause",
+            "cit": "« Un soldat jeune, » (V.5)",
+            "int": "Insistent sur la jeunesse."
+        },
+        {
+            "proc": "Champ lexical de la couleur se poursuit",
+            "cit": "« Le cresson bleu » (V.6), « lit vert » (v.8)",
+            "int": "Cadre agréable."
+        },
+        {
+            "proc": "Champ lexical du sommeil",
+            "cit": "« il est étendu », « lit »",
+            "int": "Accentue opposition soldat immobile/nature en mouvement"
+        },
+        {
+            "proc": "Rejet du verbe",
+            "cit": "« Dort » (V.7)",
+            "int": "Insiste sur le cadre paisible."
+        },
+        {
+            "proc": "Métaphore",
+            "cit": "« la lumière pleut. » (V.8)",
+            "int": "Le soldat est baigné de lumière donc mis en avant."
+        },
+        {
+            "proc": "Adj péjoratif « pâle » contraste avec l'adj « vert »",
+            "cit": "(V.8) « pale dans son lit vert »",
+            "int": "Indice qui remet en cause le calme"
+        },
+        {
+            "proc": "Nom de cette fleur provient du mot glavius, le glaive, en latin",
+            "cit": "« Les pieds dans les glaïeuls » (V.9)",
+            "int": "Détail qui intrigue le lecteur car fleur qui évoque la guerre et le sang."
+        },
+        {
+            "proc": "comparaison rejetée",
+            "cit": "« Souriant comme / Sourirait un enfant malade ». (V.9,10)",
+            "int": "la mention d'une maladie intrigue le lecteur."
+        },
+        {
+            "proc": "Conditionnel",
+            "cit": "« sourirait » (V.10)",
+            "int": "Remet en cause ce sourire donc intrigue le lecteur."
+        },
+        {
+            "proc": "champ lexical du sommeil encore présent",
+            "cit": "« il dort » (V.9), « un somme » (V.10)",
+            "int": "Contribue à l'ambiguïté de la situation."
+        },
+        {
+            "proc": "Nature personnifiée",
+            "cit": "« berce-le »(V.11)",
+            "int": "Donne l'image d'une mère protectrice,"
+        },
+        {
+            "proc": "L'antithèse",
+            "cit": "« chaudement : il a froid» (V.11)",
+            "int": "Cela prépare la chute du poème car le froid symbolise la mort."
+        },
+        {
+            "proc": "négation",
+            "cit": "« Les parfums ne font pas frissonner sa narine » (V.12",
+            "int": "Intrigue le lecteur car l'absence de mouvement peut symboliser la mort."
+        },
+        {
+            "proc": "Rejet",
+            "cit": "« Tranquille » (V.14)",
+            "int": "Renforce l'incompréhension du lecteur."
+        },
+        {
+            "proc": "Euphémisme",
+            "cit": "« Il a deux trous rouges »",
+            "int": "La chute invite le lecteur à relire le sonnet. La mort était en réalité sous-entendue dans l'ensemble du poème."
+        }
+    ]
+}
 }
 
 let currentTextDeck = {}
