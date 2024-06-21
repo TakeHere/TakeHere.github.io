@@ -1348,7 +1348,7 @@ const texts = {
         {
             "proc": "Rejet de l’adjectif",
             "cit": "« Tranquille » (V.14)",
-            "int": "Renforce l’incompréhension du lecteur car contribue à ambiguïté sur ce qu’il qualifie :             -	La poitrine, donc inquiétant car il ne respire plus             -	Le soldat, donc son sommeil est paisible"
+            "int": "Renforce l’incompréhension du lecteur car adjectif contribue à ambiguïté de la situation selon ce qu’il qualifie:             -	La poitrine, donc inquiétant car il ne respire plus             -	Le soldat, donc son sommeil est paisible"
         },
         {
             "proc": "Euphémisme pour désigner la blessure mortelle. ",
