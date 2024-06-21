@@ -1346,14 +1346,14 @@ const texts = {
             "int": "Intrigue le lecteur car l'absence de mouvement peut symboliser la mort."
         },
         {
-            "proc": "Rejet",
+            "proc": "Rejet de l’adjectif",
             "cit": "« Tranquille » (V.14)",
-            "int": "Renforce l'incompréhension du lecteur."
+            "int": "Renforce l’incompréhension du lecteur car contribue à ambiguïté sur ce qu’il qualifie :             -	La poitrine, donc inquiétant car il ne respire plus             -	Le soldat, donc son sommeil est paisible"
         },
         {
-            "proc": "Euphémisme",
+            "proc": "Euphémisme pour désigner la blessure mortelle. ",
             "cit": "« Il a deux trous rouges »",
-            "int": "La chute invite le lecteur à relire le sonnet. La mort était en réalité sous-entendue dans l'ensemble du poème."
+            "int": "La chute invite le lecteur à relire le sonnet. La mort était en réalité sous-entendue dans l’ensemble du poème."
         }
     ]
 }
