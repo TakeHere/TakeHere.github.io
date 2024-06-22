@@ -1356,13 +1356,13 @@ const texts = {
             "int": "La chute invite le lecteur à relire le sonnet. La mort était en réalité sous-entendue dans l’ensemble du poème."
         }
         ]
-    }, "LL14 dszdqzds": {
+    }, "LL14 Bohème": {
         "color": "#7ce6bf",
         "texts": [
             {
-                "proc": "Titre et sous-titre évocateurs :           - Renvoie aux bohémiens, symbole vie itinérante sans règles         - Fantaisie = imagination",
+                "proc": "Titre et sous-titre évocateurs :           - Bohème renvoie aux bohémiens, symbole vie itinérante sans règles         - Fantaisie = imagination",
                 "cit": "« Ma bohème », « fantaisie »",
-                "int": "Evoque thèmes de liberté et vagabondage"
+                "int": "Evoque thèmes de l'imagination et vagabondage"
             },
             {
                 "proc": "Répétition du verbe « aller » à l’imparfait.",
