@@ -1355,8 +1355,107 @@ const texts = {
             "cit": "« Il a deux trous rouges »",
             "int": "La chute invite le lecteur à relire le sonnet. La mort était en réalité sous-entendue dans l’ensemble du poème."
         }
-    ]
-}
+        ]
+    }, "LL14 dszdqzds": {
+        "color": "#7ce6bf",
+        "texts": [
+            {
+                "proc": "Titre et sous-titre évocateurs :           - Renvoie aux bohémiens, symbole vie itinérante sans règles         - Fantaisie = imagination",
+                "cit": "« Ma bohème », « fantaisie »",
+                "int": "Evoque thèmes de liberté et vagabondage"
+            },
+            {
+                "proc": "Répétition du verbe « aller » à l’imparfait.",
+                "cit": "« je m’en allais » (V.1)\n« j’allais » (V.3)",
+                "int": "Insiste sur le thème de l’errance présentée comme une habitude."
+            },
+            {
+                "proc": "Première personne du singulier avec pronom personnel et déterminant possessif",
+                "cit": "« je » et « mes » (V.1)",
+                "int": "Dimension autobiographique de ce sonnet rappelle la poésie lyrique."
+            },
+            {
+                "proc": "Exclamations et interjections",
+                "cit": "« Oh ! là ! là ! » (v.4)",
+                "int": "Rappelle le lyrisme mais de façon ironique car langage oral inhabituel pour la poésie.\n+ Traduit son enthousiasme, sa joie de vivre"
+            },
+            {
+                "proc": "Adj qui renvoient à l’usure.",
+                "cit": "« crevées » (v 1), « idéal » (v.2)",
+                "int": "L’usure des vêtements suggère la pauvreté.\nLe pantalon est tellement usé qu’il ne représente plus qu’une idée de pantalon."
+            },
+            {
+                "proc": "Complément circonstanciel de lieu peu précis.",
+                "cit": "« sous le ciel » (v 3)",
+                "int": "L’itinéraire imprécis suggère que ce voyage est imaginaire."
+            },
+            {
+                "proc": "Rimes qui rapprochent 2 mots",
+                "cit": "« Crevées » (V.1) et « rêvées » (v.4)",
+                "int": "Pauvreté et liberté d’imagination sont liées"
+            },
+            {
+                "proc": "Champ lexical de la pauvreté",
+                "cit": "« unique culotte » et « large trou » (v.5)",
+                "int": "Vocabulaire original en poésie car pas niveau de langue soutenu."
+            },
+            {
+                "proc": "Métaphore (il se compare au petit poucet)",
+                "cit": "« Petit-Poucet rêveur » (V.6)",
+                "int": "Référence à un personnage de conte merveilleux (présence de magie) pour suggérer que l’écriture transforme le réel."
+            },
+            {
+                "proc": "Rejet",
+                "cit": "« Des rimes » (v 7)",
+                "int": "Rimbaud ne sème pas des cailloux mais des rimes.\nCela suggère son amour de la poésie car elle le guide (voir rôle des cailloux dans le conte)"
+            },
+            {
+                "proc": "Périphrase",
+                "cit": "« Mon auberge était à la Grande Ourse », (v. 7)",
+                "int": "Manière poétique de dire qu’il dort dehors en pleine nature."
+            },
+            {
+                "proc": "Champ lexical des sensations : l’ouïe, toucher, goût",
+                "cit": "« frou-frou » (v.8), « je sentais des gouttes de rosées » (V.10-11), « comme un vin de vigueur » (V.11)",
+                "int": "La nature lui fait du bien car elle éveille ses sens"
+            },
+            {
+                "proc": "Déterminants possessif",
+                "cit": "« Mes étoiles » (V.8)",
+                "int": "Il établit un lien proche avec un élément de la nature, crée donc une relation harmonieuse avec une nature accueillante."
+            },
+            {
+                "proc": "Verbe « écouter »",
+                "cit": "« je les écoutais, assis au bord des routes », v. 9.",
+                "int": "Poète ne regarde pas mais écoute les étoiles donc complicité avec la nature."
+            },
+            {
+                "proc": "Comparaison",
+                "cit": "« comme un vin de vigueur » (V.11)",
+                "int": "Le poète puise sa force physique et poétique dans la nature."
+            },
+            {
+                "proc": "Rime surprenante.",
+                "cit": "« fantastiques »(v.12) « élastiques » (v. 13).",
+                "int": "Chute parodique car le poète utilise les élastiques de ses soulignés comme lyre, instrument du poète."
+            },
+            {
+                "proc": "Rejet",
+                "cit": "« De mes souliers blessés » (v. 14).",
+                "int": "Surprenant car l’objet est inattendu en poésie."
+            },
+            {
+                "proc": "Personnification",
+                "cit": "« souliers blessés » (v 14)",
+                "int": "Réalité transformée pour évoquer les souliers usés et troués par la marche"
+            },
+            {
+                "proc": "Polysémie « pied » : membre du corps / mesure poétique",
+                "cit": "« un pied près de mon cœur !” » (v. 14)",
+                "int": "Lien entre marche et poésie.\nLe vagabondage favorise la créativité poétique."
+            }
+        ]
+    }
 }
 
 let currentTextDeck = {}
