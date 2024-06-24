@@ -1437,7 +1437,7 @@ const texts = {
             {
                 "proc": "Rime surprenante.",
                 "cit": "« fantastiques »(v.12) « élastiques » (v. 13).",
-                "int": "Chute parodique car le poète utilise les élastiques de ses soulignés comme lyre, instrument du poète."
+                "int": "Chute parodique car le poète utilise les élastiques de ses souliers comme lyre, instrument du poète."
             },
             {
                 "proc": "Rejet",
