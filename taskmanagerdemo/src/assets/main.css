@@ -1,19 +1,13 @@
-<template>
-  <Counter/>
-</template>
-
-<script setup>
-import Counter from "./components/Counter.vue"
-
-</script>
-
-
-<style>
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
 
 body {
-  min-height: 100vh;
-  color: rgba(235, 235, 235, 0.64);
-  background: #181818;
+  background: #22242b;
+  color: #C8C8C8;
   line-height: 1.6;
   font-family:
     Inter,
@@ -33,5 +27,3 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-</style>
